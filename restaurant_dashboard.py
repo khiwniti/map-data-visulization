@@ -151,7 +151,7 @@ def display_dashboard_elements(update_dashboard):
     prediction_output = st.empty()
 
     map_html, chart = update_dashboard()
-    st.markdown(map_html, unsafe_allow_html=True)
+    st.components.v1.html(map_html, height=600)
     analytics_chart.plotly_chart(chart)
     return prediction_output
 
