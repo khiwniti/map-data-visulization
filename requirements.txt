@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+folium
+geopandas
+plotly
+sqlalchemy
+psycopg2
+scikit-learn
+requests
