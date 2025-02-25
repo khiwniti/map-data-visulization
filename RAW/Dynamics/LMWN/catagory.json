@@ -1,0 +1,3280 @@
+{
+    "groups": [
+      {
+        "id": 1,
+        "name": {
+          "primary": "Nationality",
+          "thai": "สัญชาติอาหาร",
+          "english": "Nationality"
+        },
+        "displayName": "สัญชาติอาหาร",
+        "categories": [
+          {
+            "id": 33,
+            "name": "อาหารนานาชาติ",
+            "internationalName": "International Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/33.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/33.png",
+            "nicePhoto": {
+              "photoId": "a1b3eca9d43f491f945f4cf18a3aea60",
+              "url": "photos/a1b3eca9d43f491f945f4cf18a3aea60",
+              "description": "International",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/a1b3eca9d43f491f945f4cf18a3aea60",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 18907,
+            "categories": []
+          },
+          {
+            "id": 2,
+            "name": "อาหารญี่ปุ่น",
+            "internationalName": "Japanese",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/2.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/2.png",
+            "nicePhoto": {
+              "photoId": "09d8204310564a78a1f645c0905210ee",
+              "url": "photos/09d8204310564a78a1f645c0905210ee",
+              "description": "Japanese",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/09d8204310564a78a1f645c0905210ee",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 41701,
+            "categories": []
+          },
+          {
+            "id": 34,
+            "name": "อาหารอีสาน/ร้านส้มตำ",
+            "internationalName": "Isan Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/34.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/34.png",
+            "nicePhoto": {
+              "photoId": "678748f866e2452e83278712c456ef5d",
+              "url": "photos/678748f866e2452e83278712c456ef5d",
+              "description": "North East",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg",
+              "width": 1920,
+              "height": 1919,
+              "photoUrl": "photos/678748f866e2452e83278712c456ef5d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 141750,
+            "categories": []
+          },
+          {
+            "id": 3,
+            "name": "อาหารไทย",
+            "internationalName": "Thai",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/3.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/3.png",
+            "nicePhoto": {
+              "photoId": "36fe9d7194ad4948b61c51f66e2957c4",
+              "url": "photos/36fe9d7194ad4948b61c51f66e2957c4",
+              "description": "Thai",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/36fe9d7194ad4948b61c51f66e2957c4",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 293015,
+            "categories": []
+          },
+          {
+            "id": 4,
+            "name": "อาหารจีน",
+            "internationalName": "Chinese",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4.png",
+            "nicePhoto": {
+              "photoId": "fc0b3bd42be34cd0878df8f2adc2536b",
+              "url": "photos/fc0b3bd42be34cd0878df8f2adc2536b",
+              "description": "Chinese",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg",
+              "width": 803,
+              "height": 803,
+              "photoUrl": "photos/fc0b3bd42be34cd0878df8f2adc2536b",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 25976,
+            "categories": []
+          },
+          {
+            "id": 5,
+            "name": "อาหารอิตาเลียน",
+            "internationalName": "Italian",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/5.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/5.png",
+            "nicePhoto": {
+              "photoId": "9f42b6c4b0ad412380486792d29d0c28",
+              "url": "photos/9f42b6c4b0ad412380486792d29d0c28",
+              "description": "Italian",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/9f42b6c4b0ad412380486792d29d0c28",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 9023,
+            "categories": []
+          },
+          {
+            "id": 37,
+            "name": "อื่นๆ",
+            "internationalName": "Other",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/37.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/37.png",
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 107640,
+            "categories": []
+          },
+          {
+            "id": 6,
+            "name": "อาหารเกาหลี",
+            "internationalName": "Korean",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/6.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/6.png",
+            "nicePhoto": {
+              "photoId": "413228fab5b14d1d9371ae65d43ce343",
+              "url": "photos/413228fab5b14d1d9371ae65d43ce343",
+              "description": "Korean",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/413228fab5b14d1d9371ae65d43ce343",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 17405,
+            "categories": []
+          },
+          {
+            "id": 7,
+            "name": "อาหารเวียดนาม",
+            "internationalName": "Vietnam",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/7.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/7.png",
+            "nicePhoto": {
+              "photoId": "51183798a34c4c7e83bb3b6843d796c6",
+              "url": "photos/51183798a34c4c7e83bb3b6843d796c6",
+              "description": "Vietnam",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg",
+              "width": 1326,
+              "height": 1326,
+              "photoUrl": "photos/51183798a34c4c7e83bb3b6843d796c6",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 6810,
+            "categories": []
+          },
+          {
+            "id": 8,
+            "name": "อาหารอเมริกัน",
+            "internationalName": "American",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/8.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/8.png",
+            "nicePhoto": {
+              "photoId": "845de4fc3f5e44fab33edb27bc3aefa0",
+              "url": "photos/845de4fc3f5e44fab33edb27bc3aefa0",
+              "description": "American",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/845de4fc3f5e44fab33edb27bc3aefa0",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4822,
+            "categories": []
+          },
+          {
+            "id": 40,
+            "name": "อาหารมุสลิม/ฮาลาล",
+            "internationalName": "Muslim/Halal",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/40.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/40.png",
+            "nicePhoto": {
+              "photoId": "ec7079147b054af79b74a68c9f144475",
+              "url": "photos/ec7079147b054af79b74a68c9f144475",
+              "description": "Muslim",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/ec7079147b054af79b74a68c9f144475",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 24704,
+            "categories": []
+          },
+          {
+            "id": 9,
+            "name": "อาหารฝรั่งเศส",
+            "internationalName": "French",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/9.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/9.png",
+            "nicePhoto": {
+              "photoId": "4200d45f34854a2aa4c4aeff1814ad52",
+              "url": "photos/4200d45f34854a2aa4c4aeff1814ad52",
+              "description": "French",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/4200d45f34854a2aa4c4aeff1814ad52",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 1827,
+            "categories": []
+          },
+          {
+            "id": 41,
+            "name": "อาหารเม็กซิกัน",
+            "internationalName": "Mexican",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/41.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/41.png",
+            "nicePhoto": {
+              "photoId": "f504f56599e2455288028966416c5e89",
+              "url": "photos/f504f56599e2455288028966416c5e89",
+              "description": "Mexican",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/f504f56599e2455288028966416c5e89.jpg",
+              "width": 768,
+              "height": 768,
+              "photoUrl": "photos/f504f56599e2455288028966416c5e89",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/f504f56599e2455288028966416c5e89.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/f504f56599e2455288028966416c5e89.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/f504f56599e2455288028966416c5e89.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 969,
+            "categories": []
+          },
+          {
+            "id": 10,
+            "name": "อาหารอินเดีย",
+            "internationalName": "Indian",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/10.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/10.png",
+            "nicePhoto": {
+              "photoId": "2959125ddfde40918496fb162f8bb9ed",
+              "url": "photos/2959125ddfde40918496fb162f8bb9ed",
+              "description": "Indian",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg",
+              "width": 440,
+              "height": 440,
+              "photoUrl": "photos/2959125ddfde40918496fb162f8bb9ed",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 2246,
+            "categories": []
+          },
+          {
+            "id": 44,
+            "name": "อาหารเหนือ",
+            "internationalName": "Northern Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/44.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/44.png",
+            "nicePhoto": {
+              "photoId": "539d2faffeed41a3bb17524eb4dbc243",
+              "url": "photos/539d2faffeed41a3bb17524eb4dbc243",
+              "description": "Northern Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/539d2faffeed41a3bb17524eb4dbc243",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 14070,
+            "categories": []
+          },
+          {
+            "id": 13,
+            "name": "อาหารฟิวชั่น",
+            "internationalName": "Fusion Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/13.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/13.png",
+            "nicePhoto": {
+              "photoId": "371e03eda58e49ddb738a6b3fb79d686",
+              "url": "photos/371e03eda58e49ddb738a6b3fb79d686",
+              "description": "Fusion Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg",
+              "width": 1053,
+              "height": 1054,
+              "photoUrl": "photos/371e03eda58e49ddb738a6b3fb79d686",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 15954,
+            "categories": []
+          },
+          {
+            "id": 49,
+            "name": "อาหารใต้",
+            "internationalName": "Southern Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/49.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/49.png",
+            "nicePhoto": {
+              "photoId": "872ea76612394efc9b936ffc1681aadf",
+              "url": "photos/872ea76612394efc9b936ffc1681aadf",
+              "description": "Southern Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/872ea76612394efc9b936ffc1681aadf",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 14297,
+            "categories": []
+          },
+          {
+            "id": 55,
+            "name": "อาหารเยอรมัน",
+            "internationalName": "German Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/55.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/55.png",
+            "nicePhoto": {
+              "photoId": "1641ddbdb4e7494c9d3629756c2c0629",
+              "url": "photos/1641ddbdb4e7494c9d3629756c2c0629",
+              "description": "German Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/1641ddbdb4e7494c9d3629756c2c0629",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 422,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": {
+          "primary": "Food Type",
+          "thai": "ประเภทอาหาร",
+          "english": "Food Type"
+        },
+        "displayName": "ประเภทอาหาร",
+        "categories": [
+          {
+            "id": 65,
+            "name": "อาหารเจ",
+            "internationalName": "Vegan",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/65.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/65.png",
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4540,
+            "categories": []
+          },
+          {
+            "id": 35,
+            "name": "สเต๊ก",
+            "internationalName": "Steak House",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/35.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/35.png",
+            "nicePhoto": {
+              "photoId": "21f7ed956f194fcc8c94bb4fbeae33e8",
+              "url": "photos/21f7ed956f194fcc8c94bb4fbeae33e8",
+              "description": "Steak House/Barbeque",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg",
+              "width": 800,
+              "height": 600,
+              "photoUrl": "photos/21f7ed956f194fcc8c94bb4fbeae33e8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 26492,
+            "categories": []
+          },
+          {
+            "id": 36,
+            "name": "อาหารตามสั่ง",
+            "internationalName": "À La Carte",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/36.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/36.png",
+            "nicePhoto": {
+              "photoId": "610e64cff4a940f6882f5026fffd45b8",
+              "url": "photos/610e64cff4a940f6882f5026fffd45b8",
+              "description": "À La Carte",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg",
+              "width": 1000,
+              "height": 664,
+              "photoUrl": "photos/610e64cff4a940f6882f5026fffd45b8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 233099,
+            "categories": []
+          },
+          {
+            "id": 39,
+            "name": "อาหารคลีน/สลัด",
+            "internationalName": "Clean Food/Salad",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/39.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/39.png",
+            "nicePhoto": {
+              "photoId": "29ba841c815b4308b81047f09f6f5ec8",
+              "url": "photos/29ba841c815b4308b81047f09f6f5ec8",
+              "description": "Healthy Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/29ba841c815b4308b81047f09f6f5ec8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 27663,
+            "categories": []
+          },
+          {
+            "id": 42,
+            "name": "พิซซ่า",
+            "internationalName": "Pizza",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/42.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/42.png",
+            "nicePhoto": {
+              "photoId": "82561b3b0eac4a85be62867670928bb8",
+              "url": "photos/82561b3b0eac4a85be62867670928bb8",
+              "description": "Pizza",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/82561b3b0eac4a85be62867670928bb8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 17558,
+            "categories": []
+          },
+          {
+            "id": 11,
+            "name": "บุฟเฟ่ต์",
+            "internationalName": "Buffet",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/11.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/11.png",
+            "nicePhoto": {
+              "photoId": "4e90bb1a15dc4ad48ff94cbac3dc1925",
+              "url": "photos/4e90bb1a15dc4ad48ff94cbac3dc1925",
+              "description": "Buffet",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg",
+              "width": 800,
+              "height": 800,
+              "photoUrl": "photos/4e90bb1a15dc4ad48ff94cbac3dc1925",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 9777,
+            "categories": []
+          },
+          {
+            "id": 43,
+            "name": "ปิ้งย่าง",
+            "internationalName": "Grill/BBQ",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/43.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/43.png",
+            "nicePhoto": {
+              "photoId": "bfe8c77cc723478caa5e74a40d54df94",
+              "url": "photos/bfe8c77cc723478caa5e74a40d54df94",
+              "description": "Barbeque/Grill",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/bfe8c77cc723478caa5e74a40d54df94",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 96900,
+            "categories": []
+          },
+          {
+            "id": 45,
+            "name": "ซูชิ",
+            "internationalName": "Sushi",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/45.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/45.png",
+            "nicePhoto": {
+              "photoId": "6189efdfcbbe49ee9c224a88b4116fbf",
+              "url": "photos/6189efdfcbbe49ee9c224a88b4116fbf",
+              "description": "Sushi",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/6189efdfcbbe49ee9c224a88b4116fbf",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 9110,
+            "categories": []
+          },
+          {
+            "id": 50,
+            "name": "ราเมง",
+            "internationalName": "Ramen",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/50.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/50.png",
+            "nicePhoto": {
+              "photoId": "2caf098a43fa4d90b4ab74d7260f53f8",
+              "url": "photos/2caf098a43fa4d90b4ab74d7260f53f8",
+              "description": "Ramen",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/2caf098a43fa4d90b4ab74d7260f53f8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 3623,
+            "categories": []
+          },
+          {
+            "id": 19,
+            "name": "อาหารเช้า",
+            "internationalName": "Breakfast/Brunch",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/19.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/19.png",
+            "nicePhoto": {
+              "photoId": "99e6931bd53f468db43df8ed77b31acc",
+              "url": "photos/99e6931bd53f468db43df8ed77b31acc",
+              "description": "Breakfast/Brunch",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg",
+              "width": 1920,
+              "height": 1919,
+              "photoUrl": "photos/99e6931bd53f468db43df8ed77b31acc",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 38177,
+            "categories": []
+          },
+          {
+            "id": 51,
+            "name": "หมูกระทะ",
+            "internationalName": "Thai BBQ",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/51.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/51.png",
+            "nicePhoto": {
+              "photoId": "82f0cab40e6c414db38c9d247ed6019d",
+              "url": "photos/82f0cab40e6c414db38c9d247ed6019d",
+              "description": "Moo Kata",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/82f0cab40e6c414db38c9d247ed6019d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 13913,
+            "categories": []
+          },
+          {
+            "id": 20,
+            "name": "ชาบู/สุกี้ยากี้/หม้อไฟ",
+            "internationalName": "Shabu/Sukiyaki/Hot Pot",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/20.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/20.png",
+            "nicePhoto": {
+              "photoId": "1ec9c502bb7d4e159ebaae3db8fc3a9b",
+              "url": "photos/1ec9c502bb7d4e159ebaae3db8fc3a9b",
+              "description": "Sukiyaki/Shabu",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/1ec9c502bb7d4e159ebaae3db8fc3a9b",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 26630,
+            "categories": []
+          },
+          {
+            "id": 21,
+            "name": "เครื่องดื่ม/น้ำผลไม้",
+            "internationalName": "Beverage/Juice",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/21.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/21.png",
+            "nicePhoto": {
+              "photoId": "8a73fb10918c4791a0175689b9f4b155",
+              "url": "photos/8a73fb10918c4791a0175689b9f4b155",
+              "description": "Juice/Coffee/Tea/Soft drinks",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/8a73fb10918c4791a0175689b9f4b155",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 150443,
+            "categories": []
+          },
+          {
+            "id": 23,
+            "name": "ของหวาน",
+            "internationalName": "Dessert",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/23.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/23.png",
+            "nicePhoto": {
+              "photoId": "0c834a99035e4de593ba8825917aee31",
+              "url": "photos/0c834a99035e4de593ba8825917aee31",
+              "description": "Dessert",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/0c834a99035e4de593ba8825917aee31",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 160823,
+            "categories": []
+          },
+          {
+            "id": 24,
+            "name": "เบเกอรี/เค้ก",
+            "internationalName": "Bakery/Cake",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/24.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/24.png",
+            "nicePhoto": {
+              "photoId": "f395927f2b114d918f8a51f63abfae55",
+              "url": "photos/f395927f2b114d918f8a51f63abfae55",
+              "description": "Bakery/Cake",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/f395927f2b114d918f8a51f63abfae55",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 111765,
+            "categories": []
+          },
+          {
+            "id": 25,
+            "name": "ไอศกรีม",
+            "internationalName": "Ice Cream",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/25.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/25.png",
+            "nicePhoto": {
+              "photoId": "8ba90d713e6243fbb86482f0055dec5d",
+              "url": "photos/8ba90d713e6243fbb86482f0055dec5d",
+              "description": "Ice Cream",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/8ba90d713e6243fbb86482f0055dec5d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 18812,
+            "categories": []
+          },
+          {
+            "id": 27,
+            "name": "อาหารมังสวิรัติ",
+            "internationalName": "Vegeterian",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/27.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/27.png",
+            "nicePhoto": {
+              "photoId": "c57a62fb61444805a0b0b047ac0040b7",
+              "url": "photos/c57a62fb61444805a0b0b047ac0040b7",
+              "description": "Vegeterian",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg",
+              "width": 1351,
+              "height": 1352,
+              "photoUrl": "photos/c57a62fb61444805a0b0b047ac0040b7",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4600,
+            "categories": []
+          },
+          {
+            "id": 28,
+            "name": "ฟาสต์ฟู้ด/จานด่วน",
+            "internationalName": "Fast Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/28.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/28.png",
+            "nicePhoto": {
+              "photoId": "41a51012a237401d811c224088aec681",
+              "url": "photos/41a51012a237401d811c224088aec681",
+              "description": "Fastfood",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/41a51012a237401d811c224088aec681",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 66025,
+            "categories": []
+          },
+          {
+            "id": 60,
+            "name": "ติ่มซำ",
+            "internationalName": "Dim Sum",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/60.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/60.png",
+            "nicePhoto": {
+              "photoId": "0743349b5e2c49bc94859de2aa3e4554",
+              "url": "photos/0743349b5e2c49bc94859de2aa3e4554",
+              "description": "Dim Sum",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg",
+              "width": 803,
+              "height": 803,
+              "photoUrl": "photos/0743349b5e2c49bc94859de2aa3e4554",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 11202,
+            "categories": []
+          },
+          {
+            "id": 29,
+            "name": "อาหารทะเล",
+            "internationalName": "Seafood",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/29.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/29.png",
+            "nicePhoto": {
+              "photoId": "da28672b92bb435ca88346f70c63efe8",
+              "url": "photos/da28672b92bb435ca88346f70c63efe8",
+              "description": "Seafood",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg",
+              "width": 1033,
+              "height": 1033,
+              "photoUrl": "photos/da28672b92bb435ca88346f70c63efe8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 53200,
+            "categories": []
+          },
+          {
+            "id": 30,
+            "name": "ก๋วยเตี๋ยว",
+            "internationalName": "Noodles",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/30.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/30.png",
+            "nicePhoto": {
+              "photoId": "1aba937ae608434ca66969023431358b",
+              "url": "photos/1aba937ae608434ca66969023431358b",
+              "description": "Noodles",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg",
+              "width": 521,
+              "height": 521,
+              "photoUrl": "photos/1aba937ae608434ca66969023431358b",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 171287,
+            "categories": []
+          },
+          {
+            "id": 62,
+            "name": "ชานมไข่มุก",
+            "internationalName": "Pearl Tea/Bubble Tea",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/62.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/62.png",
+            "nicePhoto": {
+              "photoId": "d314c807549d483da37c57053275139e",
+              "url": "photos/d314c807549d483da37c57053275139e",
+              "description": "Bubble Milk Tea",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg",
+              "width": 1200,
+              "height": 1200,
+              "photoUrl": "photos/d314c807549d483da37c57053275139e",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 49224,
+            "categories": []
+          },
+          {
+            "id": 63,
+            "name": "เบอร์เกอร์",
+            "internationalName": "Burger",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/63.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/63.png",
+            "nicePhoto": {
+              "photoId": "ab25bd17f3f14583b690936718406375",
+              "url": "photos/ab25bd17f3f14583b690936718406375",
+              "description": "Burger",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/10/31/ab25bd17f3f14583b690936718406375.jpg",
+              "width": 1024,
+              "height": 1024,
+              "photoUrl": "photos/ab25bd17f3f14583b690936718406375",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/10/31/ab25bd17f3f14583b690936718406375.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/10/31/ab25bd17f3f14583b690936718406375.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/10/31/ab25bd17f3f14583b690936718406375.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 11307,
+            "categories": []
+          },
+          {
+            "id": 64,
+            "name": "อาหารจานเดียว",
+            "internationalName": "Rice Dish",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/64.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/64.png",
+            "nicePhoto": {
+              "photoId": "7ad45931ab89480083fa5d7ba21e965e",
+              "url": "photos/7ad45931ab89480083fa5d7ba21e965e",
+              "description": "Rice Dish",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/7ad45931ab89480083fa5d7ba21e965e",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 216531,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": {
+          "primary": "Business Type",
+          "thai": "ประเภทร้าน",
+          "english": "Business Type"
+        },
+        "displayName": "ประเภทร้าน",
+        "categories": [
+          {
+            "id": 65,
+            "name": "อาหารเจ",
+            "internationalName": "Vegan",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/65.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/65.png",
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4540,
+            "categories": []
+          },
+          {
+            "id": 12,
+            "name": "สตรีทฟู้ด/รถเข็น",
+            "internationalName": "Street Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/12.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/12.png",
+            "nicePhoto": {
+              "photoId": "fa72f3c7df044638a67d16b40078e25c",
+              "url": "photos/fa72f3c7df044638a67d16b40078e25c",
+              "description": "Street Food/Food Stands",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg",
+              "width": 1570,
+              "height": 1569,
+              "photoUrl": "photos/fa72f3c7df044638a67d16b40078e25c",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 129679,
+            "categories": []
+          },
+          {
+            "id": 14,
+            "name": "ร้านกาแฟ/ชา",
+            "internationalName": "Coffee Shop/Tea House",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/14.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/14.png",
+            "nicePhoto": {
+              "photoId": "42b42006c55e45389a7aa2198d15febb",
+              "url": "photos/42b42006c55e45389a7aa2198d15febb",
+              "description": "Café/Coffee Shop",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/42b42006c55e45389a7aa2198d15febb",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 240448,
+            "categories": []
+          },
+          {
+            "id": 15,
+            "name": "กึ่งผับ/ร้านเหล้า/บาร์",
+            "internationalName": "Pub & Restaurant",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/15.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/15.png",
+            "nicePhoto": {
+              "photoId": "c1e264a88d104590b2d5462d3ce61e4d",
+              "url": "photos/c1e264a88d104590b2d5462d3ce61e4d",
+              "description": "Bars",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg",
+              "width": 1920,
+              "height": 1919,
+              "photoUrl": "photos/c1e264a88d104590b2d5462d3ce61e4d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 17377,
+            "categories": []
+          },
+          {
+            "id": 16,
+            "name": "ผับ/เที่ยวกลางคืน",
+            "internationalName": "Clubs",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/16.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/16.png",
+            "nicePhoto": {
+              "photoId": "49bff189e5944aeeab36bda09bfb9ce2",
+              "url": "photos/49bff189e5944aeeab36bda09bfb9ce2",
+              "description": "Pubs/Dance Clubs/Disco Tecs",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg",
+              "width": 644,
+              "height": 644,
+              "photoUrl": "photos/49bff189e5944aeeab36bda09bfb9ce2",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 2452,
+            "categories": []
+          },
+          {
+            "id": 18,
+            "name": "คาราโอเกะ",
+            "internationalName": "Karaoke",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/18.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/18.png",
+            "nicePhoto": {
+              "photoId": "4c3ef17abe29438d874222e5df91870d",
+              "url": "photos/4c3ef17abe29438d874222e5df91870d",
+              "description": "Karaoke",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg",
+              "width": 1000,
+              "height": 667,
+              "photoUrl": "photos/4c3ef17abe29438d874222e5df91870d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4457,
+            "categories": []
+          },
+          {
+            "id": 52,
+            "name": "อาหารกล่อง/ข้าวกล่อง เดลิเวอรี",
+            "internationalName": "Delivery Only",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/52.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/52.png",
+            "nicePhoto": {
+              "photoId": "7d2672e006324c46bc540edaae433788",
+              "url": "photos/7d2672e006324c46bc540edaae433788",
+              "description": "Delivery Only",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/7d2672e006324c46bc540edaae433788.jpg",
+              "width": 714,
+              "height": 714,
+              "photoUrl": "photos/7d2672e006324c46bc540edaae433788",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/7d2672e006324c46bc540edaae433788.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/7d2672e006324c46bc540edaae433788.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/7d2672e006324c46bc540edaae433788.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 82434,
+            "categories": []
+          },
+          {
+            "id": 53,
+            "name": "ร้านบนดาดฟ้า",
+            "internationalName": "Rooftop",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/53.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/53.png",
+            "nicePhoto": {
+              "photoId": "e3b55bb77bf543c391ce761535d996d7",
+              "url": "photos/e3b55bb77bf543c391ce761535d996d7",
+              "description": "Rooftop",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/e3b55bb77bf543c391ce761535d996d7",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 712,
+            "categories": []
+          },
+          {
+            "id": 22,
+            "name": "ร้านไวน์",
+            "internationalName": "Wine Bar",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/22.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/22.png",
+            "nicePhoto": {
+              "photoId": "0327591e68d84c8bb8f8871df5cbb20d",
+              "url": "photos/0327591e68d84c8bb8f8871df5cbb20d",
+              "description": "Wine Bar",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/0327591e68d84c8bb8f8871df5cbb20d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 1590,
+            "categories": []
+          },
+          {
+            "id": 54,
+            "name": "Food Truck",
+            "internationalName": "Food Truck",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/54.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/54.png",
+            "nicePhoto": {
+              "photoId": "791b76dd31b14e429e1b65c5fe39a131",
+              "url": "photos/791b76dd31b14e429e1b65c5fe39a131",
+              "description": "Food Truck",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/791b76dd31b14e429e1b65c5fe39a131",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 6806,
+            "categories": []
+          },
+          {
+            "id": 56,
+            "name": "ร้านข้าวต้ม",
+            "internationalName": "Late Night Rice Porridge",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/56.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/56.png",
+            "nicePhoto": {
+              "photoId": "1dccaf02a9c94da88838e7de84cf7db0",
+              "url": "photos/1dccaf02a9c94da88838e7de84cf7db0",
+              "description": "Late Night Rice Porridge",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/1dccaf02a9c94da88838e7de84cf7db0",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 7839,
+            "categories": []
+          },
+          {
+            "id": 57,
+            "name": "บุฟเฟ่ต์โรงแรม",
+            "internationalName": "Hotel Buffet",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/57.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/57.png",
+            "nicePhoto": {
+              "photoId": "d827999d1c94476ca83a98b91dc157a4",
+              "url": "photos/d827999d1c94476ca83a98b91dc157a4",
+              "description": "Hotel Buffet",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg",
+              "width": 1063,
+              "height": 1063,
+              "photoUrl": "photos/d827999d1c94476ca83a98b91dc157a4",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 745,
+            "categories": []
+          },
+          {
+            "id": 58,
+            "name": "อิซากายะ",
+            "internationalName": "Izakaya",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/58.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/58.png",
+            "nicePhoto": {
+              "photoId": "5b55fb94ac5946a6be7d97c9487fd9c0",
+              "url": "photos/5b55fb94ac5946a6be7d97c9487fd9c0",
+              "description": "Izakaya",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/5b55fb94ac5946a6be7d97c9487fd9c0",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 992,
+            "categories": []
+          },
+          {
+            "id": 59,
+            "name": "คาเฟ่",
+            "internationalName": "Cafe",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/59.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/59.png",
+            "nicePhoto": {
+              "photoId": "8405770b540b487da058421748fd2073",
+              "url": "photos/8405770b540b487da058421748fd2073",
+              "description": "Cafe",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/8405770b540b487da058421748fd2073",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 61483,
+            "categories": []
+          },
+          {
+            "id": 32,
+            "name": "ร้านริมน้ำ",
+            "internationalName": "Riverside",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/32.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/32.png",
+            "nicePhoto": {
+              "photoId": "642b7bb1b1884c49993a6212a03e87c7",
+              "url": "photos/642b7bb1b1884c49993a6212a03e87c7",
+              "description": "Waterside",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg",
+              "width": 728,
+              "height": 727,
+              "photoUrl": "photos/642b7bb1b1884c49993a6212a03e87c7",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4702,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": {
+          "primary": "แหล่งช้อปปิง",
+          "thai": "แหล่งช้อปปิง",
+          "english": "Shopping"
+        },
+        "displayName": "แหล่งช้อปปิง",
+        "coverPicture": {
+          "photoId": "6bb73b70e85348bda3e7edc9b3e81f13",
+          "url": "photos/6bb73b70e85348bda3e7edc9b3e81f13",
+          "description": "แหล่งช้อปปิง",
+          "contentUrl": "https://img.wongnai.com/p/_-x_/2019/01/04/6bb73b70e85348bda3e7edc9b3e81f13.jpg",
+          "width": 1920,
+          "height": 1440,
+          "photoUrl": "photos/6bb73b70e85348bda3e7edc9b3e81f13",
+          "thumbnailUrl": "https://img.wongnai.com/p/100x100/2019/01/04/6bb73b70e85348bda3e7edc9b3e81f13.jpg",
+          "smallUrl": "https://img.wongnai.com/p/400x0/2019/01/04/6bb73b70e85348bda3e7edc9b3e81f13.jpg",
+          "largeUrl": "https://img.wongnai.com/p/1920x0/2019/01/04/6bb73b70e85348bda3e7edc9b3e81f13.jpg"
+        },
+        "categories": [
+          {
+            "id": 4001,
+            "name": "ห้างสรรพสินค้า",
+            "internationalName": "Shopping mall",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4001.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4001.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 969,
+            "categories": []
+          },
+          {
+            "id": 4002,
+            "name": "ตลาดน้ำ",
+            "internationalName": "Floating Market",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4002.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4002.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 203,
+            "categories": []
+          },
+          {
+            "id": 4004,
+            "name": "ตลาดนัด/ถนนคนเดิน",
+            "internationalName": "Fair/Street Market",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4004.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4004.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 1524,
+            "categories": []
+          },
+          {
+            "id": 4007,
+            "name": "ร้านขายของฝาก",
+            "internationalName": "Souvenir shop",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4007.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4007.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 695,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": {
+          "primary": "ร้านอาหาร",
+          "thai": "ร้านอาหาร",
+          "english": "Restaurants"
+        },
+        "displayName": "ร้านอาหาร",
+        "categories": [
+          {
+            "id": 33,
+            "name": "อาหารนานาชาติ",
+            "internationalName": "International Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/33.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/33.png",
+            "nicePhoto": {
+              "photoId": "a1b3eca9d43f491f945f4cf18a3aea60",
+              "url": "photos/a1b3eca9d43f491f945f4cf18a3aea60",
+              "description": "International",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/a1b3eca9d43f491f945f4cf18a3aea60",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/a1b3eca9d43f491f945f4cf18a3aea60.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 18907,
+            "categories": []
+          },
+          {
+            "id": 34,
+            "name": "อาหารอีสาน/ร้านส้มตำ",
+            "internationalName": "Isan Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/34.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/34.png",
+            "nicePhoto": {
+              "photoId": "678748f866e2452e83278712c456ef5d",
+              "url": "photos/678748f866e2452e83278712c456ef5d",
+              "description": "North East",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg",
+              "width": 1920,
+              "height": 1919,
+              "photoUrl": "photos/678748f866e2452e83278712c456ef5d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/07/678748f866e2452e83278712c456ef5d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 141750,
+            "categories": []
+          },
+          {
+            "id": 35,
+            "name": "สเต๊ก",
+            "internationalName": "Steak House",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/35.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/35.png",
+            "nicePhoto": {
+              "photoId": "21f7ed956f194fcc8c94bb4fbeae33e8",
+              "url": "photos/21f7ed956f194fcc8c94bb4fbeae33e8",
+              "description": "Steak House/Barbeque",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg",
+              "width": 800,
+              "height": 600,
+              "photoUrl": "photos/21f7ed956f194fcc8c94bb4fbeae33e8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/10/05/21f7ed956f194fcc8c94bb4fbeae33e8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 26492,
+            "categories": []
+          },
+          {
+            "id": 36,
+            "name": "อาหารตามสั่ง",
+            "internationalName": "À La Carte",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/36.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/36.png",
+            "nicePhoto": {
+              "photoId": "610e64cff4a940f6882f5026fffd45b8",
+              "url": "photos/610e64cff4a940f6882f5026fffd45b8",
+              "description": "À La Carte",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg",
+              "width": 1000,
+              "height": 664,
+              "photoUrl": "photos/610e64cff4a940f6882f5026fffd45b8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/10/31/610e64cff4a940f6882f5026fffd45b8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 233099,
+            "categories": []
+          },
+          {
+            "id": 37,
+            "name": "อื่นๆ",
+            "internationalName": "Other",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/37.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/37.png",
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 107640,
+            "categories": []
+          },
+          {
+            "id": 39,
+            "name": "อาหารคลีน/สลัด",
+            "internationalName": "Clean Food/Salad",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/39.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/39.png",
+            "nicePhoto": {
+              "photoId": "29ba841c815b4308b81047f09f6f5ec8",
+              "url": "photos/29ba841c815b4308b81047f09f6f5ec8",
+              "description": "Healthy Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/29ba841c815b4308b81047f09f6f5ec8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/29ba841c815b4308b81047f09f6f5ec8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 27663,
+            "categories": []
+          },
+          {
+            "id": 40,
+            "name": "อาหารมุสลิม/ฮาลาล",
+            "internationalName": "Muslim/Halal",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/40.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/40.png",
+            "nicePhoto": {
+              "photoId": "ec7079147b054af79b74a68c9f144475",
+              "url": "photos/ec7079147b054af79b74a68c9f144475",
+              "description": "Muslim",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/ec7079147b054af79b74a68c9f144475",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/ec7079147b054af79b74a68c9f144475.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 24704,
+            "categories": []
+          },
+          {
+            "id": 41,
+            "name": "อาหารเม็กซิกัน",
+            "internationalName": "Mexican",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/41.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/41.png",
+            "nicePhoto": {
+              "photoId": "f504f56599e2455288028966416c5e89",
+              "url": "photos/f504f56599e2455288028966416c5e89",
+              "description": "Mexican",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/f504f56599e2455288028966416c5e89.jpg",
+              "width": 768,
+              "height": 768,
+              "photoUrl": "photos/f504f56599e2455288028966416c5e89",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/f504f56599e2455288028966416c5e89.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/f504f56599e2455288028966416c5e89.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/f504f56599e2455288028966416c5e89.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 969,
+            "categories": []
+          },
+          {
+            "id": 42,
+            "name": "พิซซ่า",
+            "internationalName": "Pizza",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/42.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/42.png",
+            "nicePhoto": {
+              "photoId": "82561b3b0eac4a85be62867670928bb8",
+              "url": "photos/82561b3b0eac4a85be62867670928bb8",
+              "description": "Pizza",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/82561b3b0eac4a85be62867670928bb8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/82561b3b0eac4a85be62867670928bb8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 17558,
+            "categories": []
+          },
+          {
+            "id": 43,
+            "name": "ปิ้งย่าง",
+            "internationalName": "Grill/BBQ",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/43.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/43.png",
+            "nicePhoto": {
+              "photoId": "bfe8c77cc723478caa5e74a40d54df94",
+              "url": "photos/bfe8c77cc723478caa5e74a40d54df94",
+              "description": "Barbeque/Grill",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/bfe8c77cc723478caa5e74a40d54df94",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/07/bfe8c77cc723478caa5e74a40d54df94.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 96900,
+            "categories": []
+          },
+          {
+            "id": 44,
+            "name": "อาหารเหนือ",
+            "internationalName": "Northern Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/44.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/44.png",
+            "nicePhoto": {
+              "photoId": "539d2faffeed41a3bb17524eb4dbc243",
+              "url": "photos/539d2faffeed41a3bb17524eb4dbc243",
+              "description": "Northern Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/539d2faffeed41a3bb17524eb4dbc243",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/539d2faffeed41a3bb17524eb4dbc243.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 14070,
+            "categories": []
+          },
+          {
+            "id": 45,
+            "name": "ซูชิ",
+            "internationalName": "Sushi",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/45.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/45.png",
+            "nicePhoto": {
+              "photoId": "6189efdfcbbe49ee9c224a88b4116fbf",
+              "url": "photos/6189efdfcbbe49ee9c224a88b4116fbf",
+              "description": "Sushi",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/6189efdfcbbe49ee9c224a88b4116fbf",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/6189efdfcbbe49ee9c224a88b4116fbf.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 9110,
+            "categories": []
+          },
+          {
+            "id": 49,
+            "name": "อาหารใต้",
+            "internationalName": "Southern Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/49.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/49.png",
+            "nicePhoto": {
+              "photoId": "872ea76612394efc9b936ffc1681aadf",
+              "url": "photos/872ea76612394efc9b936ffc1681aadf",
+              "description": "Southern Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/872ea76612394efc9b936ffc1681aadf",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/872ea76612394efc9b936ffc1681aadf.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 14297,
+            "categories": []
+          },
+          {
+            "id": 50,
+            "name": "ราเมง",
+            "internationalName": "Ramen",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/50.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/50.png",
+            "nicePhoto": {
+              "photoId": "2caf098a43fa4d90b4ab74d7260f53f8",
+              "url": "photos/2caf098a43fa4d90b4ab74d7260f53f8",
+              "description": "Ramen",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/2caf098a43fa4d90b4ab74d7260f53f8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/2caf098a43fa4d90b4ab74d7260f53f8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 3623,
+            "categories": []
+          },
+          {
+            "id": 51,
+            "name": "หมูกระทะ",
+            "internationalName": "Thai BBQ",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/51.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/51.png",
+            "nicePhoto": {
+              "photoId": "82f0cab40e6c414db38c9d247ed6019d",
+              "url": "photos/82f0cab40e6c414db38c9d247ed6019d",
+              "description": "Moo Kata",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/82f0cab40e6c414db38c9d247ed6019d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/82f0cab40e6c414db38c9d247ed6019d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 13913,
+            "categories": []
+          },
+          {
+            "id": 53,
+            "name": "ร้านบนดาดฟ้า",
+            "internationalName": "Rooftop",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/53.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/53.png",
+            "nicePhoto": {
+              "photoId": "e3b55bb77bf543c391ce761535d996d7",
+              "url": "photos/e3b55bb77bf543c391ce761535d996d7",
+              "description": "Rooftop",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/e3b55bb77bf543c391ce761535d996d7",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/e3b55bb77bf543c391ce761535d996d7.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 712,
+            "categories": []
+          },
+          {
+            "id": 54,
+            "name": "Food Truck",
+            "internationalName": "Food Truck",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/54.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/54.png",
+            "nicePhoto": {
+              "photoId": "791b76dd31b14e429e1b65c5fe39a131",
+              "url": "photos/791b76dd31b14e429e1b65c5fe39a131",
+              "description": "Food Truck",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/791b76dd31b14e429e1b65c5fe39a131",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/791b76dd31b14e429e1b65c5fe39a131.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 6806,
+            "categories": []
+          },
+          {
+            "id": 55,
+            "name": "อาหารเยอรมัน",
+            "internationalName": "German Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/55.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/55.png",
+            "nicePhoto": {
+              "photoId": "1641ddbdb4e7494c9d3629756c2c0629",
+              "url": "photos/1641ddbdb4e7494c9d3629756c2c0629",
+              "description": "German Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/1641ddbdb4e7494c9d3629756c2c0629",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/1641ddbdb4e7494c9d3629756c2c0629.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 422,
+            "categories": []
+          },
+          {
+            "id": 56,
+            "name": "ร้านข้าวต้ม",
+            "internationalName": "Late Night Rice Porridge",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/56.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/56.png",
+            "nicePhoto": {
+              "photoId": "1dccaf02a9c94da88838e7de84cf7db0",
+              "url": "photos/1dccaf02a9c94da88838e7de84cf7db0",
+              "description": "Late Night Rice Porridge",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/1dccaf02a9c94da88838e7de84cf7db0",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/1dccaf02a9c94da88838e7de84cf7db0.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 7839,
+            "categories": []
+          },
+          {
+            "id": 57,
+            "name": "บุฟเฟ่ต์โรงแรม",
+            "internationalName": "Hotel Buffet",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/57.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/57.png",
+            "nicePhoto": {
+              "photoId": "d827999d1c94476ca83a98b91dc157a4",
+              "url": "photos/d827999d1c94476ca83a98b91dc157a4",
+              "description": "Hotel Buffet",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg",
+              "width": 1063,
+              "height": 1063,
+              "photoUrl": "photos/d827999d1c94476ca83a98b91dc157a4",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/d827999d1c94476ca83a98b91dc157a4.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 745,
+            "categories": []
+          },
+          {
+            "id": 58,
+            "name": "อิซากายะ",
+            "internationalName": "Izakaya",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/58.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/58.png",
+            "nicePhoto": {
+              "photoId": "5b55fb94ac5946a6be7d97c9487fd9c0",
+              "url": "photos/5b55fb94ac5946a6be7d97c9487fd9c0",
+              "description": "Izakaya",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/5b55fb94ac5946a6be7d97c9487fd9c0",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/5b55fb94ac5946a6be7d97c9487fd9c0.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 992,
+            "categories": []
+          },
+          {
+            "id": 59,
+            "name": "คาเฟ่",
+            "internationalName": "Cafe",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/59.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/59.png",
+            "nicePhoto": {
+              "photoId": "8405770b540b487da058421748fd2073",
+              "url": "photos/8405770b540b487da058421748fd2073",
+              "description": "Cafe",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/8405770b540b487da058421748fd2073",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 61483,
+            "categories": []
+          },
+          {
+            "id": 60,
+            "name": "ติ่มซำ",
+            "internationalName": "Dim Sum",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/60.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/60.png",
+            "nicePhoto": {
+              "photoId": "0743349b5e2c49bc94859de2aa3e4554",
+              "url": "photos/0743349b5e2c49bc94859de2aa3e4554",
+              "description": "Dim Sum",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg",
+              "width": 803,
+              "height": 803,
+              "photoUrl": "photos/0743349b5e2c49bc94859de2aa3e4554",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/0743349b5e2c49bc94859de2aa3e4554.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 11202,
+            "categories": []
+          },
+          {
+            "id": 63,
+            "name": "เบอร์เกอร์",
+            "internationalName": "Burger",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/63.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/63.png",
+            "nicePhoto": {
+              "photoId": "ab25bd17f3f14583b690936718406375",
+              "url": "photos/ab25bd17f3f14583b690936718406375",
+              "description": "Burger",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/10/31/ab25bd17f3f14583b690936718406375.jpg",
+              "width": 1024,
+              "height": 1024,
+              "photoUrl": "photos/ab25bd17f3f14583b690936718406375",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/10/31/ab25bd17f3f14583b690936718406375.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/10/31/ab25bd17f3f14583b690936718406375.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/10/31/ab25bd17f3f14583b690936718406375.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 11307,
+            "categories": []
+          },
+          {
+            "id": 64,
+            "name": "อาหารจานเดียว",
+            "internationalName": "Rice Dish",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/64.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/64.png",
+            "nicePhoto": {
+              "photoId": "7ad45931ab89480083fa5d7ba21e965e",
+              "url": "photos/7ad45931ab89480083fa5d7ba21e965e",
+              "description": "Rice Dish",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/7ad45931ab89480083fa5d7ba21e965e",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/10/31/7ad45931ab89480083fa5d7ba21e965e.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 216531,
+            "categories": []
+          },
+          {
+            "id": 2,
+            "name": "อาหารญี่ปุ่น",
+            "internationalName": "Japanese",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/2.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/2.png",
+            "nicePhoto": {
+              "photoId": "09d8204310564a78a1f645c0905210ee",
+              "url": "photos/09d8204310564a78a1f645c0905210ee",
+              "description": "Japanese",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/09d8204310564a78a1f645c0905210ee",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/09d8204310564a78a1f645c0905210ee.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 41701,
+            "categories": []
+          },
+          {
+            "id": 3,
+            "name": "อาหารไทย",
+            "internationalName": "Thai",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/3.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/3.png",
+            "nicePhoto": {
+              "photoId": "36fe9d7194ad4948b61c51f66e2957c4",
+              "url": "photos/36fe9d7194ad4948b61c51f66e2957c4",
+              "description": "Thai",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/36fe9d7194ad4948b61c51f66e2957c4",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/36fe9d7194ad4948b61c51f66e2957c4.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 293015,
+            "categories": []
+          },
+          {
+            "id": 4,
+            "name": "อาหารจีน",
+            "internationalName": "Chinese",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4.png",
+            "nicePhoto": {
+              "photoId": "fc0b3bd42be34cd0878df8f2adc2536b",
+              "url": "photos/fc0b3bd42be34cd0878df8f2adc2536b",
+              "description": "Chinese",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg",
+              "width": 803,
+              "height": 803,
+              "photoUrl": "photos/fc0b3bd42be34cd0878df8f2adc2536b",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/fc0b3bd42be34cd0878df8f2adc2536b.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 25976,
+            "categories": []
+          },
+          {
+            "id": 5,
+            "name": "อาหารอิตาเลียน",
+            "internationalName": "Italian",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/5.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/5.png",
+            "nicePhoto": {
+              "photoId": "9f42b6c4b0ad412380486792d29d0c28",
+              "url": "photos/9f42b6c4b0ad412380486792d29d0c28",
+              "description": "Italian",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/9f42b6c4b0ad412380486792d29d0c28",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/9f42b6c4b0ad412380486792d29d0c28.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 9023,
+            "categories": []
+          },
+          {
+            "id": 6,
+            "name": "อาหารเกาหลี",
+            "internationalName": "Korean",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/6.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/6.png",
+            "nicePhoto": {
+              "photoId": "413228fab5b14d1d9371ae65d43ce343",
+              "url": "photos/413228fab5b14d1d9371ae65d43ce343",
+              "description": "Korean",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/413228fab5b14d1d9371ae65d43ce343",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/413228fab5b14d1d9371ae65d43ce343.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 17405,
+            "categories": []
+          },
+          {
+            "id": 7,
+            "name": "อาหารเวียดนาม",
+            "internationalName": "Vietnam",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/7.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/7.png",
+            "nicePhoto": {
+              "photoId": "51183798a34c4c7e83bb3b6843d796c6",
+              "url": "photos/51183798a34c4c7e83bb3b6843d796c6",
+              "description": "Vietnam",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg",
+              "width": 1326,
+              "height": 1326,
+              "photoUrl": "photos/51183798a34c4c7e83bb3b6843d796c6",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/51183798a34c4c7e83bb3b6843d796c6.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 6810,
+            "categories": []
+          },
+          {
+            "id": 8,
+            "name": "อาหารอเมริกัน",
+            "internationalName": "American",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/8.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/8.png",
+            "nicePhoto": {
+              "photoId": "845de4fc3f5e44fab33edb27bc3aefa0",
+              "url": "photos/845de4fc3f5e44fab33edb27bc3aefa0",
+              "description": "American",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/845de4fc3f5e44fab33edb27bc3aefa0",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/845de4fc3f5e44fab33edb27bc3aefa0.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4822,
+            "categories": []
+          },
+          {
+            "id": 9,
+            "name": "อาหารฝรั่งเศส",
+            "internationalName": "French",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/9.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/9.png",
+            "nicePhoto": {
+              "photoId": "4200d45f34854a2aa4c4aeff1814ad52",
+              "url": "photos/4200d45f34854a2aa4c4aeff1814ad52",
+              "description": "French",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/4200d45f34854a2aa4c4aeff1814ad52",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/4200d45f34854a2aa4c4aeff1814ad52.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 1827,
+            "categories": []
+          },
+          {
+            "id": 10,
+            "name": "อาหารอินเดีย",
+            "internationalName": "Indian",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/10.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/10.png",
+            "nicePhoto": {
+              "photoId": "2959125ddfde40918496fb162f8bb9ed",
+              "url": "photos/2959125ddfde40918496fb162f8bb9ed",
+              "description": "Indian",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg",
+              "width": 440,
+              "height": 440,
+              "photoUrl": "photos/2959125ddfde40918496fb162f8bb9ed",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/2959125ddfde40918496fb162f8bb9ed.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 2246,
+            "categories": []
+          },
+          {
+            "id": 11,
+            "name": "บุฟเฟ่ต์",
+            "internationalName": "Buffet",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/11.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/11.png",
+            "nicePhoto": {
+              "photoId": "4e90bb1a15dc4ad48ff94cbac3dc1925",
+              "url": "photos/4e90bb1a15dc4ad48ff94cbac3dc1925",
+              "description": "Buffet",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg",
+              "width": 800,
+              "height": 800,
+              "photoUrl": "photos/4e90bb1a15dc4ad48ff94cbac3dc1925",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/10/05/4e90bb1a15dc4ad48ff94cbac3dc1925.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 9777,
+            "categories": []
+          },
+          {
+            "id": 12,
+            "name": "สตรีทฟู้ด/รถเข็น",
+            "internationalName": "Street Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/12.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/12.png",
+            "nicePhoto": {
+              "photoId": "fa72f3c7df044638a67d16b40078e25c",
+              "url": "photos/fa72f3c7df044638a67d16b40078e25c",
+              "description": "Street Food/Food Stands",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg",
+              "width": 1570,
+              "height": 1569,
+              "photoUrl": "photos/fa72f3c7df044638a67d16b40078e25c",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/fa72f3c7df044638a67d16b40078e25c.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 129679,
+            "categories": []
+          },
+          {
+            "id": 13,
+            "name": "อาหารฟิวชั่น",
+            "internationalName": "Fusion Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/13.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/13.png",
+            "nicePhoto": {
+              "photoId": "371e03eda58e49ddb738a6b3fb79d686",
+              "url": "photos/371e03eda58e49ddb738a6b3fb79d686",
+              "description": "Fusion Food",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg",
+              "width": 1053,
+              "height": 1054,
+              "photoUrl": "photos/371e03eda58e49ddb738a6b3fb79d686",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/371e03eda58e49ddb738a6b3fb79d686.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 15954,
+            "categories": []
+          },
+          {
+            "id": 15,
+            "name": "กึ่งผับ/ร้านเหล้า/บาร์",
+            "internationalName": "Pub & Restaurant",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/15.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/15.png",
+            "nicePhoto": {
+              "photoId": "c1e264a88d104590b2d5462d3ce61e4d",
+              "url": "photos/c1e264a88d104590b2d5462d3ce61e4d",
+              "description": "Bars",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg",
+              "width": 1920,
+              "height": 1919,
+              "photoUrl": "photos/c1e264a88d104590b2d5462d3ce61e4d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/c1e264a88d104590b2d5462d3ce61e4d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 17377,
+            "categories": []
+          },
+          {
+            "id": 16,
+            "name": "ผับ/เที่ยวกลางคืน",
+            "internationalName": "Clubs",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/16.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/16.png",
+            "nicePhoto": {
+              "photoId": "49bff189e5944aeeab36bda09bfb9ce2",
+              "url": "photos/49bff189e5944aeeab36bda09bfb9ce2",
+              "description": "Pubs/Dance Clubs/Disco Tecs",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg",
+              "width": 644,
+              "height": 644,
+              "photoUrl": "photos/49bff189e5944aeeab36bda09bfb9ce2",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/49bff189e5944aeeab36bda09bfb9ce2.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 2452,
+            "categories": []
+          },
+          {
+            "id": 18,
+            "name": "คาราโอเกะ",
+            "internationalName": "Karaoke",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/18.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/18.png",
+            "nicePhoto": {
+              "photoId": "4c3ef17abe29438d874222e5df91870d",
+              "url": "photos/4c3ef17abe29438d874222e5df91870d",
+              "description": "Karaoke",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg",
+              "width": 1000,
+              "height": 667,
+              "photoUrl": "photos/4c3ef17abe29438d874222e5df91870d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2018/04/24/4c3ef17abe29438d874222e5df91870d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4457,
+            "categories": []
+          },
+          {
+            "id": 19,
+            "name": "อาหารเช้า",
+            "internationalName": "Breakfast/Brunch",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/19.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/19.png",
+            "nicePhoto": {
+              "photoId": "99e6931bd53f468db43df8ed77b31acc",
+              "url": "photos/99e6931bd53f468db43df8ed77b31acc",
+              "description": "Breakfast/Brunch",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg",
+              "width": 1920,
+              "height": 1919,
+              "photoUrl": "photos/99e6931bd53f468db43df8ed77b31acc",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2021/06/30/99e6931bd53f468db43df8ed77b31acc.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 38177,
+            "categories": []
+          },
+          {
+            "id": 20,
+            "name": "ชาบู/สุกี้ยากี้/หม้อไฟ",
+            "internationalName": "Shabu/Sukiyaki/Hot Pot",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/20.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/20.png",
+            "nicePhoto": {
+              "photoId": "1ec9c502bb7d4e159ebaae3db8fc3a9b",
+              "url": "photos/1ec9c502bb7d4e159ebaae3db8fc3a9b",
+              "description": "Sukiyaki/Shabu",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/1ec9c502bb7d4e159ebaae3db8fc3a9b",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/1ec9c502bb7d4e159ebaae3db8fc3a9b.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 26630,
+            "categories": []
+          },
+          {
+            "id": 22,
+            "name": "ร้านไวน์",
+            "internationalName": "Wine Bar",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/22.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/22.png",
+            "nicePhoto": {
+              "photoId": "0327591e68d84c8bb8f8871df5cbb20d",
+              "url": "photos/0327591e68d84c8bb8f8871df5cbb20d",
+              "description": "Wine Bar",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/0327591e68d84c8bb8f8871df5cbb20d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/0327591e68d84c8bb8f8871df5cbb20d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 1590,
+            "categories": []
+          },
+          {
+            "id": 27,
+            "name": "อาหารมังสวิรัติ",
+            "internationalName": "Vegeterian",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/27.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/27.png",
+            "nicePhoto": {
+              "photoId": "c57a62fb61444805a0b0b047ac0040b7",
+              "url": "photos/c57a62fb61444805a0b0b047ac0040b7",
+              "description": "Vegeterian",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg",
+              "width": 1351,
+              "height": 1352,
+              "photoUrl": "photos/c57a62fb61444805a0b0b047ac0040b7",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/c57a62fb61444805a0b0b047ac0040b7.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4600,
+            "categories": []
+          },
+          {
+            "id": 28,
+            "name": "ฟาสต์ฟู้ด/จานด่วน",
+            "internationalName": "Fast Food",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/28.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/28.png",
+            "nicePhoto": {
+              "photoId": "41a51012a237401d811c224088aec681",
+              "url": "photos/41a51012a237401d811c224088aec681",
+              "description": "Fastfood",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/41a51012a237401d811c224088aec681",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/07/41a51012a237401d811c224088aec681.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 66025,
+            "categories": []
+          },
+          {
+            "id": 29,
+            "name": "อาหารทะเล",
+            "internationalName": "Seafood",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/29.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/29.png",
+            "nicePhoto": {
+              "photoId": "da28672b92bb435ca88346f70c63efe8",
+              "url": "photos/da28672b92bb435ca88346f70c63efe8",
+              "description": "Seafood",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg",
+              "width": 1033,
+              "height": 1033,
+              "photoUrl": "photos/da28672b92bb435ca88346f70c63efe8",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/da28672b92bb435ca88346f70c63efe8.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 53200,
+            "categories": []
+          },
+          {
+            "id": 30,
+            "name": "ก๋วยเตี๋ยว",
+            "internationalName": "Noodles",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/30.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/30.png",
+            "nicePhoto": {
+              "photoId": "1aba937ae608434ca66969023431358b",
+              "url": "photos/1aba937ae608434ca66969023431358b",
+              "description": "Noodles",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg",
+              "width": 521,
+              "height": 521,
+              "photoUrl": "photos/1aba937ae608434ca66969023431358b",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/1aba937ae608434ca66969023431358b.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 171287,
+            "categories": []
+          },
+          {
+            "id": 32,
+            "name": "ร้านริมน้ำ",
+            "internationalName": "Riverside",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/32.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/32.png",
+            "nicePhoto": {
+              "photoId": "642b7bb1b1884c49993a6212a03e87c7",
+              "url": "photos/642b7bb1b1884c49993a6212a03e87c7",
+              "description": "Waterside",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg",
+              "width": 728,
+              "height": 727,
+              "photoUrl": "photos/642b7bb1b1884c49993a6212a03e87c7",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/07/642b7bb1b1884c49993a6212a03e87c7.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 4702,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": {
+          "primary": "กาแฟ & ของหวาน",
+          "thai": "กาแฟ & ของหวาน",
+          "english": "Coffee & Dessert"
+        },
+        "displayName": "กาแฟ & ของหวาน",
+        "categories": [
+          {
+            "id": 21,
+            "name": "เครื่องดื่ม/น้ำผลไม้",
+            "internationalName": "Beverage/Juice",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/21.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/21.png",
+            "nicePhoto": {
+              "photoId": "8a73fb10918c4791a0175689b9f4b155",
+              "url": "photos/8a73fb10918c4791a0175689b9f4b155",
+              "description": "Juice/Coffee/Tea/Soft drinks",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/8a73fb10918c4791a0175689b9f4b155",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2017/11/04/8a73fb10918c4791a0175689b9f4b155.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 150443,
+            "categories": []
+          },
+          {
+            "id": 23,
+            "name": "ของหวาน",
+            "internationalName": "Dessert",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/23.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/23.png",
+            "nicePhoto": {
+              "photoId": "0c834a99035e4de593ba8825917aee31",
+              "url": "photos/0c834a99035e4de593ba8825917aee31",
+              "description": "Dessert",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/0c834a99035e4de593ba8825917aee31",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/0c834a99035e4de593ba8825917aee31.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 160823,
+            "categories": []
+          },
+          {
+            "id": 24,
+            "name": "เบเกอรี/เค้ก",
+            "internationalName": "Bakery/Cake",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/24.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/24.png",
+            "nicePhoto": {
+              "photoId": "f395927f2b114d918f8a51f63abfae55",
+              "url": "photos/f395927f2b114d918f8a51f63abfae55",
+              "description": "Bakery/Cake",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/f395927f2b114d918f8a51f63abfae55",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/f395927f2b114d918f8a51f63abfae55.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 111765,
+            "categories": []
+          },
+          {
+            "id": 25,
+            "name": "ไอศกรีม",
+            "internationalName": "Ice Cream",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/25.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/25.png",
+            "nicePhoto": {
+              "photoId": "8ba90d713e6243fbb86482f0055dec5d",
+              "url": "photos/8ba90d713e6243fbb86482f0055dec5d",
+              "description": "Ice Cream",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/8ba90d713e6243fbb86482f0055dec5d",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/8ba90d713e6243fbb86482f0055dec5d.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 18812,
+            "categories": []
+          },
+          {
+            "id": 59,
+            "name": "คาเฟ่",
+            "internationalName": "Cafe",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/59.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/59.png",
+            "nicePhoto": {
+              "photoId": "8405770b540b487da058421748fd2073",
+              "url": "photos/8405770b540b487da058421748fd2073",
+              "description": "Cafe",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "width": 1920,
+              "height": 1920,
+              "photoUrl": "photos/8405770b540b487da058421748fd2073",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2017/11/04/8405770b540b487da058421748fd2073.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 61483,
+            "categories": []
+          },
+          {
+            "id": 14,
+            "name": "ร้านกาแฟ/ชา",
+            "internationalName": "Coffee Shop/Tea House",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/14.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/14.png",
+            "nicePhoto": {
+              "photoId": "42b42006c55e45389a7aa2198d15febb",
+              "url": "photos/42b42006c55e45389a7aa2198d15febb",
+              "description": "Café/Coffee Shop",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg",
+              "width": 600,
+              "height": 600,
+              "photoUrl": "photos/42b42006c55e45389a7aa2198d15febb",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/2021/06/30/42b42006c55e45389a7aa2198d15febb.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 240448,
+            "categories": []
+          },
+          {
+            "id": 62,
+            "name": "ชานมไข่มุก",
+            "internationalName": "Pearl Tea/Bubble Tea",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/62.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/62.png",
+            "nicePhoto": {
+              "photoId": "d314c807549d483da37c57053275139e",
+              "url": "photos/d314c807549d483da37c57053275139e",
+              "description": "Bubble Milk Tea",
+              "contentUrl": "https://img.wongnai.com/p/_-x_/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg",
+              "width": 1200,
+              "height": 1200,
+              "photoUrl": "photos/d314c807549d483da37c57053275139e",
+              "thumbnailUrl": "https://img.wongnai.com/p/100x100/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg",
+              "smallUrl": "https://img.wongnai.com/p/400x0/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg",
+              "largeUrl": "https://img.wongnai.com/p/1920x0/deleted/2018/10/31/d314c807549d483da37c57053275139e.jpg"
+            },
+            "domain": {
+              "name": "MAIN",
+              "value": 1
+            },
+            "numberOfBusinesses": 49224,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": {
+          "primary": "เที่ยวกับครอบครัว",
+          "thai": "เที่ยวกับครอบครัว",
+          "english": "Family Holiday"
+        },
+        "displayName": "เที่ยวกับครอบครัว",
+        "coverPicture": {
+          "photoId": "c38ba55780af4ae386e2b9f9d234e8b5",
+          "url": "photos/c38ba55780af4ae386e2b9f9d234e8b5",
+          "description": "ครอบครัว ",
+          "contentUrl": "https://img.wongnai.com/p/_-x_/2019/01/04/c38ba55780af4ae386e2b9f9d234e8b5.jpg",
+          "width": 1920,
+          "height": 1440,
+          "photoUrl": "photos/c38ba55780af4ae386e2b9f9d234e8b5",
+          "thumbnailUrl": "https://img.wongnai.com/p/100x100/2019/01/04/c38ba55780af4ae386e2b9f9d234e8b5.jpg",
+          "smallUrl": "https://img.wongnai.com/p/400x0/2019/01/04/c38ba55780af4ae386e2b9f9d234e8b5.jpg",
+          "largeUrl": "https://img.wongnai.com/p/1920x0/2019/01/04/c38ba55780af4ae386e2b9f9d234e8b5.jpg"
+        },
+        "categories": [
+          {
+            "id": 4353,
+            "name": "สวนสัตว์",
+            "internationalName": "Zoo",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4353.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4353.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 148,
+            "categories": []
+          },
+          {
+            "id": 4355,
+            "name": "ศูนย์แสดงสัตว์น้ำ",
+            "internationalName": "Aquarium",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4355.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4355.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 39,
+            "categories": []
+          },
+          {
+            "id": 4356,
+            "name": "หมู่บ้านช้าง",
+            "internationalName": "Elephant Show Ground",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4356.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4356.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 49,
+            "categories": []
+          },
+          {
+            "id": 4201,
+            "name": "หอศิลป์",
+            "internationalName": "Art Galleries",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4201.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4201.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 189,
+            "categories": []
+          },
+          {
+            "id": 4202,
+            "name": "พิพิธภัณฑ์",
+            "internationalName": "Museum",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4202.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4202.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 709,
+            "categories": []
+          },
+          {
+            "id": 4204,
+            "name": "ศูนย์การเรียนรู้",
+            "internationalName": "Learning Center",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4204.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4204.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 608,
+            "categories": []
+          },
+          {
+            "id": 4351,
+            "name": "สวนน้ำ",
+            "internationalName": "Waterpark",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4351.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4351.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 122,
+            "categories": []
+          },
+          {
+            "id": 4352,
+            "name": "สวนสนุก",
+            "internationalName": "Amusement park",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4352.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4352.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 168,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": {
+          "primary": "ธรรมชาติ",
+          "thai": "ธรรมชาติ",
+          "english": "Nature"
+        },
+        "displayName": "ธรรมชาติ",
+        "coverPicture": {
+          "photoId": "23ceda821f4a44b597fef9ccc0d58397",
+          "url": "photos/23ceda821f4a44b597fef9ccc0d58397",
+          "description": "ธรรมชาติ",
+          "contentUrl": "https://img.wongnai.com/p/_-x_/2019/01/04/23ceda821f4a44b597fef9ccc0d58397.jpg",
+          "width": 1920,
+          "height": 1280,
+          "photoUrl": "photos/23ceda821f4a44b597fef9ccc0d58397",
+          "thumbnailUrl": "https://img.wongnai.com/p/100x100/2019/01/04/23ceda821f4a44b597fef9ccc0d58397.jpg",
+          "smallUrl": "https://img.wongnai.com/p/400x0/2019/01/04/23ceda821f4a44b597fef9ccc0d58397.jpg",
+          "largeUrl": "https://img.wongnai.com/p/1920x0/2019/01/04/23ceda821f4a44b597fef9ccc0d58397.jpg"
+        },
+        "categories": [
+          {
+            "id": 4417,
+            "name": "จุดชมวิว",
+            "internationalName": "Viewpoint",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4417.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4417.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 860,
+            "categories": []
+          },
+          {
+            "id": 4402,
+            "name": "เขื่อน/อ่างเก็บน้ำ",
+            "internationalName": "Dam/Reservoir",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4402.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4402.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 273,
+            "categories": []
+          },
+          {
+            "id": 4418,
+            "name": "สวนสาธารณะ",
+            "internationalName": "Park",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4418.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4418.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 281,
+            "categories": []
+          },
+          {
+            "id": 4408,
+            "name": "ถ้ำ",
+            "internationalName": "Cave",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4408.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4408.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 178,
+            "categories": []
+          },
+          {
+            "id": 4409,
+            "name": "น้ำตก",
+            "internationalName": "Water Fall",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4409.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4409.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 648,
+            "categories": []
+          },
+          {
+            "id": 4410,
+            "name": "ภูเขา",
+            "internationalName": "Mountain",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4410.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4410.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 461,
+            "categories": []
+          },
+          {
+            "id": 4411,
+            "name": "ไร่/ฟาร์ม/สวนเกษตร",
+            "internationalName": "Farm",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4411.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4411.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 619,
+            "categories": []
+          },
+          {
+            "id": 4412,
+            "name": "ป่าชายเลน",
+            "internationalName": "Mangrove Forest",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4412.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4412.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 53,
+            "categories": []
+          },
+          {
+            "id": 4413,
+            "name": "น้ำพุร้อน",
+            "internationalName": "Hot Spring",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4413.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4413.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 98,
+            "categories": []
+          },
+          {
+            "id": 4416,
+            "name": "อุทยานและธรรมชาติ",
+            "internationalName": "Nature/Park",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4416.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4416.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 362,
+            "categories": []
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": {
+          "primary": "วัด-โบสถ์-มัสยิด",
+          "thai": "วัด-โบสถ์-มัสยิด",
+          "english": "Religion places"
+        },
+        "displayName": "วัด-โบสถ์-มัสยิด",
+        "coverPicture": {
+          "photoId": "395f1c1a632242ee87d1133c52056ab1",
+          "url": "photos/395f1c1a632242ee87d1133c52056ab1",
+          "description": "วัด-โบสถ์-มัสยิด",
+          "contentUrl": "https://img.wongnai.com/p/_-x_/2019/01/04/395f1c1a632242ee87d1133c52056ab1.jpg",
+          "width": 1920,
+          "height": 1280,
+          "photoUrl": "photos/395f1c1a632242ee87d1133c52056ab1",
+          "thumbnailUrl": "https://img.wongnai.com/p/100x100/2019/01/04/395f1c1a632242ee87d1133c52056ab1.jpg",
+          "smallUrl": "https://img.wongnai.com/p/400x0/2019/01/04/395f1c1a632242ee87d1133c52056ab1.jpg",
+          "largeUrl": "https://img.wongnai.com/p/1920x0/2019/01/04/395f1c1a632242ee87d1133c52056ab1.jpg"
+        },
+        "categories": [
+          {
+            "id": 4161,
+            "name": "โบสถ์คริสต์",
+            "internationalName": "Church",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4161.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4161.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 243,
+            "categories": []
+          },
+          {
+            "id": 4162,
+            "name": "มัสยิด",
+            "internationalName": "Mosque",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4162.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4162.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 42,
+            "categories": []
+          },
+          {
+            "id": 4164,
+            "name": "วัดจีน/ศาลเจ้า",
+            "internationalName": "Chinese Temple/Shrine",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4164.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4164.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 386,
+            "categories": []
+          },
+          {
+            "id": 4151,
+            "name": "พระราชวัง",
+            "internationalName": "Palace",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4151.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4151.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 210,
+            "categories": []
+          },
+          {
+            "id": 4167,
+            "name": "เชิงประวัติศาสตร์",
+            "internationalName": "Historical Site",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4167.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4167.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 736,
+            "categories": []
+          },
+          {
+            "id": 4152,
+            "name": "วัด",
+            "internationalName": "Temple",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4152.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4152.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 2793,
+            "categories": []
+          },
+          {
+            "id": 4168,
+            "name": "ศาสนสถาน",
+            "internationalName": "Religious Site",
+            "iconUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4168.png",
+            "iconFullUrl": "https://static2.wongnai.com/static/7.9.1/category/common/images/color/4168.png",
+            "domain": {
+              "name": "ATTRACTION",
+              "value": 4
+            },
+            "numberOfBusinesses": 344,
+            "categories": []
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,1918 @@
+[
+    {
+      "id": "N-E",
+      "color": "#77CC00",
+      "name": "รถไฟฟ้าสายสีเขียวอ่อน",
+      "sortOrder": 1,
+      "stations": [
+        {
+          "id": "CEN",
+          "poiId": "2123",
+          "name": "CEN BTS สยาม",
+          "location": {
+            "latitude": 13.7454449,
+            "longitude": 100.5335529
+          },
+          "colors": [
+            "#77CC00",
+            "#42807D"
+          ]
+        },
+        {
+          "id": "E1",
+          "poiId": "2150",
+          "name": "E1 BTS ชิดลม",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7439586,
+            "longitude": 100.5429478
+          }
+        },
+        {
+          "id": "E2",
+          "poiId": "2153",
+          "name": "E2 BTS เพลินจิต",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7431581,
+            "longitude": 100.5487522
+          }
+        },
+        {
+          "id": "E3",
+          "poiId": "2156",
+          "name": "E3 BTS นานา",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7405931,
+            "longitude": 100.5550324
+          }
+        },
+        {
+          "id": "E4",
+          "poiId": "2159",
+          "name": "E4 BTS อโศก",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7492683,
+            "longitude": 100.5635552
+          }
+        },
+        {
+          "id": "E5",
+          "poiId": "2162",
+          "name": "E5 BTS พร้อมพงษ์",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7302209,
+            "longitude": 100.5689919
+          }
+        },
+        {
+          "id": "E6",
+          "poiId": "2165",
+          "name": "E6 BTS ทองหล่อ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7239687,
+            "longitude": 100.5777641
+          }
+        },
+        {
+          "id": "E7",
+          "poiId": "2168",
+          "name": "E7 BTS เอกมัย",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7195233,
+            "longitude": 100.5850554
+          }
+        },
+        {
+          "id": "E8",
+          "poiId": "2171",
+          "name": "E8 BTS พระโขนง",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7151336,
+            "longitude": 100.5911243
+          }
+        },
+        {
+          "id": "E9",
+          "poiId": "2174",
+          "name": "E9 BTS อ่อนนุช",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7052466,
+            "longitude": 100.6009542
+          }
+        },
+        {
+          "id": "E10",
+          "poiId": "2177",
+          "name": "E10 BTS บางจาก",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6968738,
+            "longitude": 100.6048558
+          }
+        },
+        {
+          "id": "E11",
+          "poiId": "2180",
+          "name": "E11 BTS ปุณณวิถี",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6896398,
+            "longitude": 100.605918
+          }
+        },
+        {
+          "id": "E12",
+          "poiId": "2183",
+          "name": "E12 BTS อุดมสุข",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6799252,
+            "longitude": 100.6083359
+          }
+        },
+        {
+          "id": "E13",
+          "poiId": "2186",
+          "name": "E13 BTS บางนา",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6681217,
+            "longitude": 100.6046187
+          }
+        },
+        {
+          "id": "E14",
+          "poiId": "2189",
+          "name": "E14 BTS แบริ่ง",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6611927,
+            "longitude": 100.6013486
+          }
+        },
+        {
+          "id": "E15",
+          "poiId": "2651",
+          "name": "E15 BTS สำโรง",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6462786,
+            "longitude": 100.5956191
+          }
+        },
+        {
+          "id": "E16",
+          "poiId": "2652",
+          "name": "E16 BTS ปู่เจ้า",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6374875,
+            "longitude": 100.5914807
+          }
+        },
+        {
+          "id": "E17",
+          "poiId": "2653",
+          "name": "E17 BTS ช้างเอราวัณ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6214315,
+            "longitude": 100.5895485
+          }
+        },
+        {
+          "id": "E18",
+          "poiId": "2654",
+          "name": "E18 BTS โรงเรียนนายเรือ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6083998,
+            "longitude": 100.5943224
+          }
+        },
+        {
+          "id": "E19",
+          "poiId": "2655",
+          "name": "E19 BTS ปากน้ำ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.6020212,
+            "longitude": 100.5965727
+          }
+        },
+        {
+          "id": "E20",
+          "poiId": "2656",
+          "name": "E20 BTS ศรีนครินทร์",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.5921077,
+            "longitude": 100.6086799
+          }
+        },
+        {
+          "id": "E21",
+          "poiId": "2657",
+          "name": "E21 BTS แพรกษา",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.5843047,
+            "longitude": 100.6080342
+          }
+        },
+        {
+          "id": "E22",
+          "poiId": "2658",
+          "name": "E22 BTS สายลวด",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.5777535,
+            "longitude": 100.6053155
+          }
+        },
+        {
+          "id": "E23",
+          "poiId": "2659",
+          "name": "E23 BTS เคหะฯ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.5675567,
+            "longitude": 100.60759
+          }
+        },
+        {
+          "id": "N1",
+          "poiId": "2147",
+          "name": "N1 BTS ราชเทวี",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7519987,
+            "longitude": 100.5315255
+          }
+        },
+        {
+          "id": "N2",
+          "poiId": "2144",
+          "name": "N2 BTS พญาไท",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7566694,
+            "longitude": 100.5338191
+          }
+        },
+        {
+          "id": "N3",
+          "poiId": "2141",
+          "name": "N3 BTS อนุสาวรีย์ชัยสมรภูมิ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7625763,
+            "longitude": 100.5369131
+          }
+        },
+        {
+          "id": "N4",
+          "poiId": "2138",
+          "name": "N4 BTS สนามเป้า",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.772784,
+            "longitude": 100.5419546
+          }
+        },
+        {
+          "id": "N5",
+          "poiId": "2135",
+          "name": "N5 BTS อารีย์",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7795545,
+            "longitude": 100.5446525
+          }
+        },
+        {
+          "id": "N6",
+          "poiId": "2650",
+          "name": "N6 BTS เสนาร่วม",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7866285,
+            "longitude": 100.5467307
+          }
+        },
+        {
+          "id": "N7",
+          "poiId": "2132",
+          "name": "N7 BTS สะพานควาย",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.7937302,
+            "longitude": 100.5494319
+          }
+        },
+        {
+          "id": "N8",
+          "poiId": "2129",
+          "name": "N8 BTS หมอชิต",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8024687,
+            "longitude": 100.5536614
+          }
+        },
+        {
+          "id": "N9",
+          "poiId": "2649",
+          "name": "N9 BTS ห้าแยกลาดพร้าว",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8165961,
+            "longitude": 100.5617898
+          }
+        },
+        {
+          "id": "N10",
+          "poiId": "2648",
+          "name": "N10 BTS พหลโยธิน 24",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8225236,
+            "longitude": 100.5653175
+          }
+        },
+        {
+          "id": "N11",
+          "poiId": "2647",
+          "name": "N11 BTS รัชโยธิน",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8292957,
+            "longitude": 100.5696224
+          }
+        },
+        {
+          "id": "N12",
+          "poiId": "2646",
+          "name": "N12 BTS เสนานิคม",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8360373,
+            "longitude": 100.5731724
+          }
+        },
+        {
+          "id": "N13",
+          "poiId": "2645",
+          "name": "N13 BTS มหาวิทยาลัยเกษตรศาสตร์",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8421706,
+            "longitude": 100.5773757
+          }
+        },
+        {
+          "id": "N14",
+          "poiId": "2644",
+          "name": "N14 BTS กรมป่าไม้",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8505634,
+            "longitude": 100.5817864
+          }
+        },
+        {
+          "id": "N15",
+          "poiId": "2643",
+          "name": "N15 BTS บางบัว",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8559992,
+            "longitude": 100.5829823
+          }
+        },
+        {
+          "id": "N16",
+          "poiId": "2642",
+          "name": "N16 BTS กรมทหารราบที่ 11",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8675332,
+            "longitude": 100.5897513
+          }
+        },
+        {
+          "id": "N17",
+          "poiId": "2641",
+          "name": "N17 BTS วัดพระศรีมหาธาตุ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8745858,
+            "longitude": 100.5961096
+          }
+        },
+        {
+          "id": "N18",
+          "poiId": "2640",
+          "name": "N18 BTS พหลโยธิน 59",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8824592,
+            "longitude": 100.5985773
+          }
+        },
+        {
+          "id": "N19",
+          "poiId": "2639",
+          "name": "N19 BTS สายหยุด",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8876461,
+            "longitude": 100.6039239
+          }
+        },
+        {
+          "id": "N20",
+          "poiId": "2638",
+          "name": "N20 BTS สะพานใหม่",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.8919129,
+            "longitude": 100.5980912
+          }
+        },
+        {
+          "id": "N21",
+          "poiId": "2637",
+          "name": "N21 BTS โรงพยาบาลภูมิพลอดุลยเดช",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.9107272,
+            "longitude": 100.6152343
+          }
+        },
+        {
+          "id": "N22",
+          "poiId": "2636",
+          "name": "N22 BTS พิพิธภัณฑ์กองทัพอากาศ",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.9198718,
+            "longitude": 100.6204891
+          }
+        },
+        {
+          "id": "N23",
+          "poiId": "2635",
+          "name": "N23 BTS แยก คปอ.",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.9249882,
+            "longitude": 100.6236873
+          }
+        },
+        {
+          "id": "N24",
+          "poiId": "2634",
+          "name": "N24 BTS คูคต",
+          "colors": [
+            "#77CC00"
+          ],
+          "location": {
+            "latitude": 13.9323462,
+            "longitude": 100.6444373
+          }
+        }
+      ]
+    },
+    {
+      "id": "S-W",
+      "color": "#42807D",
+      "name": "รถไฟฟ้าสายสีเขียวเข้ม",
+      "sortOrder": 2,
+      "stations": [
+        {
+          "id": "CEN",
+          "poiId": "2123",
+          "name": "CEN BTS สยาม",
+          "location": {
+            "latitude": 13.7454449,
+            "longitude": 100.5335529
+          },
+          "colors": [
+            "#42807D",
+            "#77CC00"
+          ]
+        },
+        {
+          "id": "S1",
+          "poiId": "2120",
+          "name": "S1 BTS ราชดำริ",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7395838,
+            "longitude": 100.5381954
+          }
+        },
+        {
+          "id": "S2",
+          "poiId": "2117",
+          "name": "S2 BTS ศาลาแดง",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7284236,
+            "longitude": 100.5336756
+          }
+        },
+        {
+          "id": "S3",
+          "poiId": "2114",
+          "name": "S3 BTS ช่องนนทรี",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7231546,
+            "longitude": 100.5299513
+          }
+        },
+        {
+          "id": "S4",
+          "poiId": "2660",
+          "name": "S4 BTS เซนต์หลุยส์",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7209115,
+            "longitude": 100.5267778
+          }
+        },
+        {
+          "id": "S5",
+          "poiId": "2111",
+          "name": "S5 BTS สุรศักดิ์",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7192401,
+            "longitude": 100.5213202
+          }
+        },
+        {
+          "id": "S6",
+          "poiId": "2108",
+          "name": "S6 BTS สะพานตากสิน",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7187633,
+            "longitude": 100.5142024
+          }
+        },
+        {
+          "id": "G1/S7",
+          "poiId": "2105",
+          "name": "S7/G1 BTS กรุงธนบุรี",
+          "colors": [
+            "#42807D",
+            "#CCA556"
+          ],
+          "location": {
+            "latitude": 13.7208827,
+            "longitude": 100.5022065
+          }
+        },
+        {
+          "id": "S8",
+          "poiId": "2102",
+          "name": "S8 BTS วงเวียนใหญ่",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7208873,
+            "longitude": 100.4949074
+          }
+        },
+        {
+          "id": "S9",
+          "poiId": "2099",
+          "name": "S9 BTS โพธิ์นิมิตร",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7190577,
+            "longitude": 100.4859601
+          }
+        },
+        {
+          "id": "S10",
+          "poiId": "2661",
+          "name": "S10 BTS ตลาดพลู",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7140085,
+            "longitude": 100.4763588
+          }
+        },
+        {
+          "id": "S11",
+          "poiId": "2093",
+          "name": "S11 BTS วุฒากาศ",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7130519,
+            "longitude": 100.4688985
+          }
+        },
+        {
+          "id": "S12",
+          "poiId": "2090",
+          "name": "S12 BTS บางหว้า",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7205019,
+            "longitude": 100.4574585
+          }
+        },
+        {
+          "id": "W1",
+          "poiId": "2126",
+          "name": "W1 BTS สนามกีฬาแห่งชาติ",
+          "colors": [
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7463091,
+            "longitude": 100.5286292
+          }
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "color": "#CCA556",
+      "name": "รถไฟฟ้าสายสีทอง",
+      "sortOrder": 3,
+      "stations": [
+        {
+          "id": "G1/S7",
+          "poiId": "2662",
+          "name": "G1/S7 BTS กรุงธนบุรี",
+          "colors": [
+            "#CCA556",
+            "#42807D"
+          ],
+          "location": {
+            "latitude": 13.7209032,
+            "longitude": 100.503621
+          }
+        },
+        {
+          "id": "G2",
+          "poiId": "2663",
+          "name": "G2 BTS เจริญนคร",
+          "colors": [
+            "#CCA556"
+          ],
+          "location": {
+            "latitude": 13.7263364,
+            "longitude": 100.5086321
+          }
+        },
+        {
+          "id": "G3",
+          "poiId": "2664",
+          "name": "G3 BTS คลองสาน",
+          "colors": [
+            "#CCA556"
+          ],
+          "location": {
+            "latitude": 13.7302817,
+            "longitude": 100.5074436
+          }
+        }
+      ]
+    },
+    {
+      "id": "BL",
+      "color": "#1964B7",
+      "name": "รถไฟฟ้าสายสีน้ำเงิน",
+      "sortOrder": 4,
+      "stations": [
+        {
+          "id": "BL01",
+          "poiId": "2678",
+          "name": "BL01 MRT ท่าพระ",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7297086,
+            "longitude": 100.4740007
+          }
+        },
+        {
+          "id": "BL02",
+          "poiId": "2677",
+          "name": "BL02 MRT จรัญฯ 13",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7401653,
+            "longitude": 100.4707566
+          }
+        },
+        {
+          "id": "BL03",
+          "poiId": "2676",
+          "name": "BL03 MRT ไฟฉาย",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7556925,
+            "longitude": 100.4693638
+          }
+        },
+        {
+          "id": "BL04",
+          "poiId": "2675",
+          "name": "BL04 MRT บางขุนนนท์",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7633925,
+            "longitude": 100.4734476
+          }
+        },
+        {
+          "id": "BL05",
+          "poiId": "2674",
+          "name": "BL05 MRT บางยี่ขัน",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7774187,
+            "longitude": 100.4857339
+          }
+        },
+        {
+          "id": "BL06",
+          "poiId": "2673",
+          "name": "BL06 MRT สิรินธร",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7839557,
+            "longitude": 100.4934236
+          }
+        },
+        {
+          "id": "BL07",
+          "poiId": "2672",
+          "name": "BL07 MRT บางพลัด",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7922448,
+            "longitude": 100.5051671
+          }
+        },
+        {
+          "id": "BL08",
+          "poiId": "2671",
+          "name": "BL08 MRT บางอ้อ",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7989569,
+            "longitude": 100.5098581
+          }
+        },
+        {
+          "id": "BL09",
+          "poiId": "2670",
+          "name": "BL09 MRT บางโพ",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.8064288,
+            "longitude": 100.5208865
+          }
+        },
+        {
+          "id": "BL10/PP16",
+          "poiId": "2669",
+          "name": "BL10/PP16 MRT เตาปูน",
+          "colors": [
+            "#1964B7",
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8062804,
+            "longitude": 100.5300732
+          }
+        },
+        {
+          "id": "BL11",
+          "poiId": "2039",
+          "name": "BL11 MRT บางซื่อ",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.8026962,
+            "longitude": 100.5396541
+          }
+        },
+        {
+          "id": "BL12",
+          "poiId": "2066",
+          "name": "BL12 MRT กำแพงเพชร",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7980528,
+            "longitude": 100.5485329
+          }
+        },
+        {
+          "id": "BL13",
+          "poiId": "2042",
+          "name": "BL13 MRT สวนจตุจักร",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.8031547,
+            "longitude": 100.5546756
+          }
+        },
+        {
+          "id": "BL14",
+          "poiId": "2087",
+          "name": "BL14 MRT พหลโยธิน",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.8140295,
+            "longitude": 100.5594497
+          }
+        },
+        {
+          "id": "BL15",
+          "poiId": "2063",
+          "name": "BL15 MRT ลาดพร้าว",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.8059147,
+            "longitude": 100.5730845
+          }
+        },
+        {
+          "id": "BL16",
+          "poiId": "2075",
+          "name": "BL16 MRT รัชดาภิเษก",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7990521,
+            "longitude": 100.5750155
+          }
+        },
+        {
+          "id": "BL17",
+          "poiId": "2051",
+          "name": "BL17 MRT สุทธิสาร",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7897908,
+            "longitude": 100.5739976
+          }
+        },
+        {
+          "id": "BL18",
+          "poiId": "2054",
+          "name": "BL18 MRT ห้วยขวาง",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7780833,
+            "longitude": 100.5736769
+          }
+        },
+        {
+          "id": "BL19",
+          "poiId": "2081",
+          "name": "BL19 MRT ศูนย์วัฒนธรรมแห่งประเทศไทย",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7655319,
+            "longitude": 100.5704482
+          }
+        },
+        {
+          "id": "BL20",
+          "poiId": "2084",
+          "name": "BL20 MRT พระราม 9",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7577363,
+            "longitude": 100.5650447
+          }
+        },
+        {
+          "id": "BL21",
+          "poiId": "2045",
+          "name": "BL21 MRT เพชรบุรี",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7484275,
+            "longitude": 100.5629096
+          }
+        },
+        {
+          "id": "BL22",
+          "poiId": "2057",
+          "name": "BL22 MRT สุขุมวิท",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7387021,
+            "longitude": 100.5611425
+          }
+        },
+        {
+          "id": "BL23",
+          "poiId": "2069",
+          "name": "BL23 MRT ศูนย์การประชุมแห่งชาติสิริกิติ์",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7230907,
+            "longitude": 100.5588924
+          }
+        },
+        {
+          "id": "BL24",
+          "poiId": "2078",
+          "name": "BL24 MRT คลองเตย",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7216731,
+            "longitude": 100.552383
+          }
+        },
+        {
+          "id": "BL25",
+          "poiId": "2060",
+          "name": "BL25 MRT ลุมพินี",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7250734,
+            "longitude": 100.5458996
+          }
+        },
+        {
+          "id": "BL26",
+          "poiId": "2036",
+          "name": "BL26 MRT สีลม",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7290719,
+            "longitude": 100.5365421
+          }
+        },
+        {
+          "id": "BL27",
+          "poiId": "2072",
+          "name": "BL27 MRT สามย่าน",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7318422,
+            "longitude": 100.5297466
+          }
+        },
+        {
+          "id": "BL28",
+          "poiId": "2048",
+          "name": "BL28 MRT หัวลำโพง",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7377111,
+            "longitude": 100.5156453
+          }
+        },
+        {
+          "id": "BL29",
+          "poiId": "2668",
+          "name": "BL29 MRT วัดมังกร",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7413685,
+            "longitude": 100.5096989
+          }
+        },
+        {
+          "id": "BL30",
+          "poiId": "2667",
+          "name": "BL30 MRT สามยอด",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7470479,
+            "longitude": 100.499625
+          }
+        },
+        {
+          "id": "BL31",
+          "poiId": "2666",
+          "name": "BL31 MRT สนามไชย",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7435569,
+            "longitude": 100.4946032
+          }
+        },
+        {
+          "id": "BL32",
+          "poiId": "2665",
+          "name": "BL32 MRT อิสรภาพ",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7378532,
+            "longitude": 100.4842477
+          }
+        },
+        {
+          "id": "BL33",
+          "poiId": "2679",
+          "name": "BL33 MRT บางไผ่",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7240957,
+            "longitude": 100.465357
+          }
+        },
+        {
+          "id": "BL34",
+          "poiId": "2680",
+          "name": "BL34 MRT บางหว้า",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7205019,
+            "longitude": 100.4574585
+          }
+        },
+        {
+          "id": "BL35",
+          "poiId": "2681",
+          "name": "BL35 MRT เพชรเกษม 48",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7152929,
+            "longitude": 100.4459104
+          }
+        },
+        {
+          "id": "BL36",
+          "poiId": "2682",
+          "name": "BL36 MRT ภาษีเจริญ",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7128332,
+            "longitude": 100.4343197
+          }
+        },
+        {
+          "id": "BL37",
+          "poiId": "2683",
+          "name": "BL37 MRT บางแค",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7117951,
+            "longitude": 100.4225167
+          }
+        },
+        {
+          "id": "BL38",
+          "poiId": "2684",
+          "name": "BL38 MRT หลักสอง",
+          "colors": [
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.7108502,
+            "longitude": 100.4093051
+          }
+        }
+      ]
+    },
+    {
+      "id": "PP",
+      "color": "#800080",
+      "name": "รถไฟฟ้าสายสีม่วง",
+      "sortOrder": 5,
+      "stations": [
+        {
+          "id": "PP01",
+          "poiId": "2700",
+          "name": "PP01 MRT คลองบางไผ่",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8917023,
+            "longitude": 100.4082827
+          }
+        },
+        {
+          "id": "PP02",
+          "poiId": "2699",
+          "name": "PP02 MRT ตลาดบางใหญ่",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8810191,
+            "longitude": 100.4092444
+          }
+        },
+        {
+          "id": "PP03",
+          "poiId": "2698",
+          "name": "PP03 MRT สามแยกบางใหญ่",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8747465,
+            "longitude": 100.4195324
+          }
+        },
+        {
+          "id": "PP04",
+          "poiId": "2697",
+          "name": "PP04 MRT บางพลู",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8759756,
+            "longitude": 100.4344872
+          }
+        },
+        {
+          "id": "PP05",
+          "poiId": "2696",
+          "name": "PP05 MRT บางรักใหญ่",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8766501,
+            "longitude": 100.4455749
+          }
+        },
+        {
+          "id": "PP06",
+          "poiId": "2695",
+          "name": "PP06 MRT บางรักน้อยท่าอิฐ",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8747983,
+            "longitude": 100.4552196
+          }
+        },
+        {
+          "id": "PP07",
+          "poiId": "2694",
+          "name": "PP07 MRT ไทรม้า",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8702569,
+            "longitude": 100.4661857
+          }
+        },
+        {
+          "id": "PP08",
+          "poiId": "2693",
+          "name": "PP08 MRT สะพานพระนั่งเกล้า",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8696762,
+            "longitude": 100.4800228
+          }
+        },
+        {
+          "id": "PP09",
+          "poiId": "2692",
+          "name": "PP09 MRT แยกนนทบุรี 1",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8657863,
+            "longitude": 100.4940862
+          }
+        },
+        {
+          "id": "PP10",
+          "poiId": "2691",
+          "name": "PP10 MRT บางกระสอ",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8616922,
+            "longitude": 100.5041796
+          }
+        },
+        {
+          "id": "PP11",
+          "poiId": "2690",
+          "name": "PP11 MRT ศูนย์ราชการนนทบุรี",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8599467,
+            "longitude": 100.5129338
+          }
+        },
+        {
+          "id": "PP12",
+          "poiId": "2689",
+          "name": "PP12 MRT กระทรวงสาธารณสุข",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8484923,
+            "longitude": 100.5146933
+          }
+        },
+        {
+          "id": "PP13",
+          "poiId": "2688",
+          "name": "PP13 MRT แยกติวานนท์",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8398062,
+            "longitude": 100.5148333
+          }
+        },
+        {
+          "id": "PP14",
+          "poiId": "2687",
+          "name": "PP14 MRT วงศ์สว่าง",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8296576,
+            "longitude": 100.5265784
+          }
+        },
+        {
+          "id": "PP15",
+          "poiId": "2686",
+          "name": "PP15 MRT บางซ่อน",
+          "colors": [
+            "#800080"
+          ],
+          "location": {
+            "latitude": 13.8202038,
+            "longitude": 100.5326198
+          }
+        },
+        {
+          "id": "BL10/PP16",
+          "poiId": "2685",
+          "name": "PP16/BL10 MRT เตาปูน",
+          "colors": [
+            "#800080",
+            "#1964B7"
+          ],
+          "location": {
+            "latitude": 13.8060279,
+            "longitude": 100.5302579
+          }
+        }
+      ]
+    },
+    {
+      "id": "A",
+      "color": "#761F21",
+      "name": "แอร์พอร์ต เรล ลิงก์",
+      "sortOrder": 6,
+      "stations": [
+        {
+          "id": "A1",
+          "poiId": "2213",
+          "name": "A1 สุวรรณภูมิ",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.6982732,
+            "longitude": 100.7525165
+          }
+        },
+        {
+          "id": "A2",
+          "poiId": "2210",
+          "name": "A2 ลาดกระบัง",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.7274767,
+            "longitude": 100.7477692
+          }
+        },
+        {
+          "id": "A3",
+          "poiId": "2207",
+          "name": "A3 บ้านทับช้าง",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.7327547,
+            "longitude": 100.6907486
+          }
+        },
+        {
+          "id": "A4",
+          "poiId": "2204",
+          "name": "A4 หัวหมาก",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.7380139,
+            "longitude": 100.6450465
+          }
+        },
+        {
+          "id": "A5",
+          "poiId": "2201",
+          "name": "A5 รามคำแหง",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.7430358,
+            "longitude": 100.5995708
+          }
+        },
+        {
+          "id": "A6",
+          "poiId": "2198",
+          "name": "A6 มักกะสัน",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.7507691,
+            "longitude": 100.5612299
+          }
+        },
+        {
+          "id": "A7",
+          "poiId": "2195",
+          "name": "A7 ราชปรารภ",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.7550229,
+            "longitude": 100.5420951
+          }
+        },
+        {
+          "id": "A8",
+          "poiId": "2192",
+          "name": "A8 พญาไท",
+          "colors": [
+            "#761F21"
+          ],
+          "location": {
+            "latitude": 13.7565643,
+            "longitude": 100.5348771
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "color": "#DCDB21",
+      "name": "รถโดยสารด่วนพิเศษ BRT",
+      "sortOrder": 7,
+      "stations": [
+        {
+          "id": "B1",
+          "poiId": "2701",
+          "name": "B1 BRT สาทร",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.7208789,
+            "longitude": 100.530408
+          }
+        },
+        {
+          "id": "B2",
+          "poiId": "2702",
+          "name": "B2 BRT อาคารสงเคราะห์",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.7168313,
+            "longitude": 100.5327036
+          }
+        },
+        {
+          "id": "B3",
+          "poiId": "2703",
+          "name": "B3 BRT เทคนิคกรุงเทพ",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.7127283,
+            "longitude": 100.5347667
+          }
+        },
+        {
+          "id": "B4",
+          "poiId": "2704",
+          "name": "B4 BRT ถนนจันทน์",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.7044255,
+            "longitude": 100.5389396
+          }
+        },
+        {
+          "id": "B5",
+          "poiId": "2705",
+          "name": "B5 BRT นราราม 3",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.6962019,
+            "longitude": 100.545079
+          }
+        },
+        {
+          "id": "B6",
+          "poiId": "2706",
+          "name": "B6 BRT วัดด่าน",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.6745047,
+            "longitude": 100.5429741
+          }
+        },
+        {
+          "id": "B7",
+          "poiId": "2707",
+          "name": "B7 BRT วัดปริวาส",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.6747044,
+            "longitude": 100.5337287
+          }
+        },
+        {
+          "id": "B8",
+          "poiId": "2708",
+          "name": "B8 BRT วัดดอกไม้",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.6823814,
+            "longitude": 100.5251114
+          }
+        },
+        {
+          "id": "B9",
+          "poiId": "2709",
+          "name": "B9 BRT สะพานพระราม 9",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.688202,
+            "longitude": 100.5150511
+          }
+        },
+        {
+          "id": "B10",
+          "poiId": "2710",
+          "name": "B10 BRT เจริญราษฎร์",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.6897044,
+            "longitude": 100.5038488
+          }
+        },
+        {
+          "id": "B11",
+          "poiId": "2711",
+          "name": "B11 BRT สะพานพระราม 3",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.6928658,
+            "longitude": 100.5005039
+          }
+        },
+        {
+          "id": "B12",
+          "poiId": "2712",
+          "name": "B12 BRT ราชพฤกษ์",
+          "colors": [
+            "#DCDB21"
+          ],
+          "location": {
+            "latitude": 13.7161128,
+            "longitude": 100.4789493
+          }
+        }
+      ]
+    },
+    {
+      "id": "RN",
+      "color": "#DE0F19",
+      "name": "รถไฟฟ้าสายสีแดงเข้ม",
+      "sortOrder": 11,
+      "stations": [
+        {
+          "id": "RN01/RW01",
+          "poiId": "2713",
+          "name": "RN01/RW01 SRT สถานีกลางบางซื่อ",
+          "colors": [
+            "#DE0F19",
+            "#FA5558"
+          ],
+          "location": {
+            "latitude": 13.8036907,
+            "longitude": 100.5399938
+          }
+        },
+        {
+          "id": "RN02",
+          "poiId": "2714",
+          "name": "RN02 SRT จตุจักร",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.8256424,
+            "longitude": 100.5483432
+          }
+        },
+        {
+          "id": "RN03",
+          "poiId": "2715",
+          "name": "RN03 SRT วัดเสมียนนารี",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.8417826,
+            "longitude": 100.5578823
+          }
+        },
+        {
+          "id": "RN04",
+          "poiId": "2716",
+          "name": "RN04 SRT บางเขน",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.8468988,
+            "longitude": 100.5608822
+          }
+        },
+        {
+          "id": "RN05",
+          "poiId": "2717",
+          "name": "RN05 SRT ทุ่งสองห้อง",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.8599875,
+            "longitude": 100.5677535
+          }
+        },
+        {
+          "id": "RN06",
+          "poiId": "2718",
+          "name": "RN06 SRT หลักสี่",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.8845767,
+            "longitude": 100.5815266
+          }
+        },
+        {
+          "id": "RN07",
+          "poiId": "2719",
+          "name": "RN07 SRT การเคหะ",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.9042626,
+            "longitude": 100.5882779
+          }
+        },
+        {
+          "id": "RN08",
+          "poiId": "2720",
+          "name": "RN08 SRT ดอนเมือง",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.9146166,
+            "longitude": 100.5986287
+          }
+        },
+        {
+          "id": "RN09",
+          "poiId": "2721",
+          "name": "RN09 SRT หลักหก",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.9652855,
+            "longitude": 100.6049479
+          }
+        },
+        {
+          "id": "RN10",
+          "poiId": "2722",
+          "name": "RN10 SRT รังสิต",
+          "colors": [
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.9904054,
+            "longitude": 100.6010089
+          }
+        }
+      ]
+    },
+    {
+      "id": "RW",
+      "color": "#FA5558",
+      "name": "รถไฟฟ้าสายสีแดงอ่อน",
+      "sortOrder": 11,
+      "stations": [
+        {
+          "id": "RN01/RW01",
+          "poiId": "2723",
+          "name": "RW01/RN01 SRT สถานีกลางบางซื่อ",
+          "colors": [
+            "#FA5558",
+            "#DE0F19"
+          ],
+          "location": {
+            "latitude": 13.8036907,
+            "longitude": 100.5399938
+          }
+        },
+        {
+          "id": "RW02",
+          "poiId": "2724",
+          "name": "RW02 SRT บางซ่อน",
+          "colors": [
+            "#FA5558"
+          ],
+          "location": {
+            "latitude": 13.8217869,
+            "longitude": 100.5341687
+          }
+        },
+        {
+          "id": "RW05",
+          "poiId": "2725",
+          "name": "RW05 SRT บางบำหรุ",
+          "colors": [
+            "#FA5558"
+          ],
+          "location": {
+            "latitude": 13.7915976,
+            "longitude": 100.4772404
+          }
+        },
+        {
+          "id": "RW06",
+          "poiId": "2726",
+          "name": "RW06 SRT ตลิ่งชัน",
+          "colors": [
+            "#FA5558"
+          ],
+          "location": {
+            "latitude": 13.7878207,
+            "longitude": 100.4386786
+          }
+        }
+      ]
+    }
+  ]

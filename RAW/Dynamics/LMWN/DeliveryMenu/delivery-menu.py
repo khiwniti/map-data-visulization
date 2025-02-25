@@ -1,0 +1,1 @@
+import {publicId} from ./restaurants.json
