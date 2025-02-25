@@ -53,7 +53,7 @@ The BiteBase Restaurant Dashboard is a Streamlit application that provides vario
 
 1. Run the Streamlit application:
     ```bash
-    streamlit run restaurant_dashboard.py
+    streamlit run location_change_prediction.py
     ```
 
 2. Open your web browser and navigate to the provided URL (e.g., `http://localhost:8501`).
