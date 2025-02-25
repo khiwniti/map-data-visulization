@@ -9,3 +9,7 @@ geopandas
 branca
 xgboost
 shapely
+geopy
+matplotlib
+seaborn
+shap
