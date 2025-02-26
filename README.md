@@ -1,73 +1,102 @@
-# BiteBase Restaurant Dashboard
+# BiteBase Restaurant Analytics Dashboard
 
-## Overview
-
-The BiteBase Restaurant Dashboard is a Streamlit application that provides various insights and analytics for restaurant data. It includes features such as geographic and customer insights, revenue and profitability analytics, and marketing and customer engagement insights. The dashboard also includes a machine learning model to predict location changes for restaurants.
+A comprehensive analytics dashboard for restaurant location analysis and business intelligence.
 
 ## Features
 
-1. **Product (Menu & Sales Insights)**
-   - Top-Selling & Low-Performing Dishes
-   - Food Cost vs. Profitability
-   - Seasonal & Trend Analysis
-   - Dynamic Pricing Recommendations
+- Interactive map visualization with Kepler.gl
+- Real-time location change predictions
+- Business analytics with PyGWalker
+- Historical trend analysis
+- Dynamic risk assessment
+- Multi-factor location scoring
 
-2. **Place (Geographic & Customer Insights)**
-   - Customer Density Heatmap
-   - Competitor & Market Landscape
-   - Delivery & Pickup Hotspots
-   - Real Estate & Rental Impact
+## Project Structure
 
-3. **Price (Revenue & Profitability Analytics)**
-   - Sales & Revenue Forecasting
-   - Peak Days & Hours Analysis
-   - Discount & Promotion Effectiveness
-   - Customer Spending Behavior & Trends
-
-4. **Promotion (Marketing & Customer Engagement)**
-   - Customer Segmentation & Loyalty Tracking
-   - Ad Performance & ROI Analysis
-   - AI-Driven Sentiment Analysis from Reviews
-   - Marketing & Seasonal Campaign Suggestions
-   - Real-Time Sales & Inventory Tracking
-   - Smart Labor Scheduling & Staff Efficiency
-   - Multi-Branch Performance Dashboard
-   - Financial & Traffic Forecasts for Expansion Planning
+```
+.
+├── RAW/                      # Raw data files
+│   ├── Dynamics/            # Dynamic data sources
+│   │   └── LMWN/           # Restaurant data
+│   └── Statics/            # Static reference data
+├── src/                     # Source code
+│   ├── data/               # Data processing modules
+│   ├── models/             # ML models and predictors
+│   │   ├── combined_location_model.py
+│   │   ├── location_change_prediction_model.py
+│   │   ├── realtime_location_change_model.py
+│   │   └── saved_model.pkl
+│   ├── utils/              # Utility functions
+│   │   └── mock_data_generator.py
+│   └── restaurant_dashboard.py  # Main dashboard application
+├── requirements.txt         # Project dependencies
+└── README.md               # Project documentation
+```
 
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/map-data-visualization.git
-    cd map-data-visualization
-    ```
+```bash
+git clone https://github.com/yourusername/map-data-visulization.git
+cd map-data-visulization
+```
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Ensure you have the necessary data files in the `RAW/Dynamics/LMWN/` directory.
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
-1. Run the Streamlit application:
-    ```bash
-    streamlit run location_change_prediction.py
-    ```
+1. Run the dashboard:
+```bash
+streamlit run src/restaurant_dashboard.py
+```
 
-2. Open your web browser and navigate to the provided URL (e.g., `http://localhost:8501`).
+2. Use the interactive map:
+- Click on any location to get real-time analysis
+- Use sidebar filters to customize the view
+- Explore different analytics tabs for detailed insights
 
-## File Structure
+3. View analytics:
+- Product Analytics: Menu performance and sales trends
+- Place Analytics: Geographic and competitive analysis
+- Price Analytics: Revenue and profitability metrics
+- Promotion Analytics: Marketing and customer engagement
 
-- `restaurant_dashboard.py`: Main Streamlit dashboard code.
-- `location_change_prediction.py`: Functions for training the machine learning model and making predictions.
-- `RAW/Dynamics/LMWN/restaurants.json`: JSON file containing restaurant data.
+## Models
+
+### Combined Location Model
+- Integrates static and real-time predictions
+- Uses historical data for trend analysis
+- Provides explainable AI insights
+
+### Real-time Location Change Model
+- Dynamic risk assessment
+- Time-sensitive predictions
+- Trend monitoring and alerts
+
+## Data Sources
+
+- Restaurant information from LMWN API
+- Geographic data for location analysis
+- Historical performance metrics
+- Real-time business indicators
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Streamlit for the web framework
+- Kepler.gl for map visualization
+- PyGWalker for analytics tools
