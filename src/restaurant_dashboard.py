@@ -60,7 +60,7 @@ class MapConfig:
 @dataclass
 class FileConfig:
     """File paths and related constants"""
-    RESTAURANT_DATA_PATH: Path = Path(__file__).parent.parent.parent / "mock_restaurant_data.csv"
+    RESTAURANT_DATA_PATH: Project_root / "mock_restaurant_data.csv"
     MODEL_PATH: Path = project_root / "src/models/saved_model.pkl"
 
 class RestaurantData:
