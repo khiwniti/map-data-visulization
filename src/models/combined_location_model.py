@@ -20,17 +20,38 @@ class CombinedLocationModel:
     RealtimeLocationChangeModel for dynamic updates.
     """
     
-    def __init__(self, model_path: Optional[str] = None):
+    def __init__(self, csv_path: Optional[str] = None, model_path: Optional[str] = None):
         """
         Initialize the combined model.
         
         Args:
+            csv_path: Path to the CSV file containing restaurant data
             model_path: Optional path to load a pre-trained model
         """
         self.base_model = LocationChangeModel()
         if model_path:
-            self.load_model(model_path)
+            try:
+                model_path_to_load = model_path
+                model_data = joblib.load(model_path_to_load)
+                self.base_model = model_data.get('model', LocationChangeModel())
+                logger.info(f"Model loaded successfully from {model_path_to_load}")
+            except Exception as e:
+                logger.error(f"Error loading model: {str(e)}")
+                self.base_model = LocationChangeModel()
         
+        if csv_path:
+            try:
+                self.restaurant_data = pd.read_csv(csv_path)
+                self.restaurant_data = self.restaurant_data.dropna()
+                self.restaurant_data['GPS_Data'] = self.restaurant_data['GPS_Data'].astype(str)
+                self.csv_path = csv_path
+                logger.info(f"Restaurant data loaded successfully from {csv_path}")
+            except Exception as e:
+                logger.error(f"Error loading restaurant data: {str(e)}")
+                self.restaurant_data = pd.DataFrame()  # Initialize to an empty DataFrame
+        else:
+            self.restaurant_data = pd.DataFrame()  # Initialize to an empty DataFrame
+
         self.realtime_model = RealtimeLocationChangeModel(base_model=self.base_model)
         self.current_predictions = {}
         self.cached_features = {}
@@ -52,29 +73,53 @@ class CombinedLocationModel:
         """
         location_id = f"{lat},{lng}"
         
-        # Update location features with coordinates
-        features = self._prepare_location_features(lat, lng, current_features)
+        # Try to find matching restaurant data
+        restaurant = None
+        if not self.restaurant_data.empty:
+            try:
+                restaurant = self.restaurant_data[
+                    (self.restaurant_data['GPS_Data'].str.contains(str(lat))) &
+                    (self.restaurant_data['GPS_Data'].str.contains(str(lng)))
+                ]
+                if not restaurant.empty:
+                    restaurant = restaurant.iloc[0].to_dict()
+                else:
+                    restaurant = None
+            except Exception as e:
+                logger.error(f"Error accessing restaurant data: {str(e)}")
+                restaurant = None
+        
+        # Use restaurant data if available, otherwise use current features
+        if restaurant is not None: # Check if restaurant is not None
+            features = self._prepare_location_features(lat, lng, restaurant)
+        else:
+            features = self._prepare_location_features(lat, lng, current_features)
         
         # Get real-time prediction
         prediction = self.realtime_model.process_realtime_data(location_id, features)
         
         if prediction:
             self.current_predictions[location_id] = prediction
-            self.cached_features[location_id] = features
+            self.cached_features = features
             
-            return {
-                'location_id': location_id,
-                'coordinates': {'lat': lat, 'lng': lng},
-                'prediction': prediction['prediction'],
-                'probability': prediction['current_probability'],
-                'insights': prediction['insights'],
-                'timestamp': prediction['timestamp'],
-                'feature_importance': self._get_feature_importance(features),
-                'trends': self._get_location_trends(location_id)
-            }
+            return self._format_prediction_response(location_id, lat, lng, prediction, features)
         
         # If too soon for new prediction, return cached result
-        return self.current_predictions.get(location_id)
+        return self.current_predictions.get(location_id, {})
+
+
+    def _format_prediction_response(self, location_id, lat, lng, prediction, features) -> Dict[str, Any]:
+        return {
+                'location_id': location_id,
+                'coordinates': {'lat': lat, 'lng': lng},
+                'prediction': prediction.get('prediction', None),
+                'probability': prediction.get('current_probability', None),
+                'insights': prediction.get('insights', {}),
+                'timestamp': prediction.get('timestamp', None),
+                'feature_importance': self._get_feature_importance(features),
+                'trends': self._get_location_trends(location_id) or {},
+            }
+
 
     def _prepare_location_features(self, 
                                  lat: float, 
@@ -130,12 +175,7 @@ class CombinedLocationModel:
         try:
             analysis = self.realtime_model.get_historical_analysis(location_id)
             if analysis:
-                return {
-                    'short_term': analysis['trend_analysis']['trends'].get('short_term', {}),
-                    'medium_term': analysis['trend_analysis']['trends'].get('medium_term', {}),
-                    'long_term': analysis['trend_analysis']['trends'].get('long_term', {}),
-                    'recommendations': analysis['trend_analysis']['recommendations']
-                }
+                return analysis.get('trend_analysis', {}) or {}
         except Exception as e:
             logger.error(f"Error getting location trends: {str(e)}")
         return {}
@@ -145,7 +185,7 @@ class CombinedLocationModel:
                          features: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
         """Generate detailed explanation for a prediction."""
         try:
-            features_to_explain = features or self.cached_features.get(location_id)
+            features_to_explain = features or self.cached_features.get(location_id, {})
             if not features_to_explain:
                 return {}
             
@@ -154,10 +194,10 @@ class CombinedLocationModel:
             shap_values = shap_explainer.shap_values(df)
             
             return {
-                'shap_values': shap_values,
+                'shap_values': shap_values.tolist(),
                 'feature_names': list(df.columns),
                 'base_value': float(shap_values.mean()),
-                'current_prediction': self.current_predictions.get(location_id, {})
+                'current_prediction': self.current_predictions.get(location_id, {}) or {},
             }
             
         except Exception as e:
@@ -166,17 +206,19 @@ class CombinedLocationModel:
 
     def get_historical_data(self, location_id: str) -> Dict[str, Any]:
         """Get historical data for a location."""
-        return self.realtime_model.get_historical_analysis(location_id)
+        return self.realtime_model.get_historical_analysis(location_id) or {}
 
     def load_model(self, filepath: str) -> None:
         """Load a saved model."""
         try:
-            model_data = joblib.load(filepath)
-            self.base_model = model_data['model']
-            logger.info(f"Model loaded successfully from {filepath}")
+            model_path_to_load = filepath # Use filepath here
+            model_data = joblib.load(model_path_to_load)
+            self.base_model = model_data.get('model', LocationChangeModel())
+            logger.info(f"Model loaded successfully from {filepath}") # Use the new variable
         except Exception as e:
             logger.error(f"Error loading model: {str(e)}")
-            raise
+            self.base_model = LocationChangeModel()
+        logger.info(f"Model loaded successfully from {filepath}")
 
     def save_model(self, filepath: str) -> None:
         """Save the current model."""

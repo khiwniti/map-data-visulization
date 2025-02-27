@@ -10,3 +10,6 @@ shap
 joblib
 geopy
 python-dateutil
+radar-python
+streamlit-folium
+
