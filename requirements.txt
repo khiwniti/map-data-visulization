@@ -1,0 +1,37 @@
+# Web Framework
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+alembic
+psycopg2-binary
+asyncpg
+
+# Authentication
+python-jose
+passlib
+python-multipart
+bcrypt
+
+# Data Processing
+pandas
+numpy
+scipy
+
+# Utilities
+python-dateutil
+pytz
+email-validator
+
+# Testing
+pytest
+pytest-asyncio
+httpx
+
+# Development
+black
+isort
+flake8
